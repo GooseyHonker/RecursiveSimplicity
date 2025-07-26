@@ -3,10 +3,10 @@
 
 Releases: https://github.com/GooseyHonker/NeuroSimplicity/releases
 
-Permissable Release of Any and All Liability Disclaimer
+Release of Any and All Liability Disclaimer
 =
 
-This **Permissable Release of Any and All Liability Disclaimer** (“Disclaimer”) applies to the book **NeuroSimplicity** by Charlie Miller. Please read this Disclaimer carefully. By reading this book, you acknowledge and agree to the terms set forth below.
+This **Release of Any and All Liability Disclaimer** (“Disclaimer”) applies to the book **NeuroSimplicity** by Charlie Miller. Please read this Disclaimer carefully. By reading this book, you acknowledge and agree to the terms set forth below.
 
 ## 1. Purpose
 
