@@ -1,6 +1,8 @@
 # NeuroSimplicity 
 - What to Do With Our Flooded Minds in a Culture of PTSD, Narcissism and Gaslighting
 
+🚧WIP – Citation Mapping in Progress🚧
+
 All references to published works are used under fair use for commentary.
 
 Releases: https://github.com/GooseyHonker/NeuroSimplicity/releases
