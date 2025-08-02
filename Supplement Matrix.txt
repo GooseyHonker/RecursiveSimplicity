@@ -1,4 +1,4 @@
-===MICRO-SUPPLEMENTS===
+===Charlie's MICRO-SUPPLEMENTS===
 
 Supplement 1 - https://www.amazon.com/gp/product/B09TCF3SV3/ref=ox_sc_act_image_5?smid=A2W6BBFZZER1R5&psc=1
 Ingredient															Amount per Serving
@@ -147,7 +147,7 @@ Acetyl L-Carnitine HCl														800 mg
 Acetyl L-Carnitine Arginate Di-HCl												300 mg
 Glycine Propionyl L-Carnitine HCl												300 mg
 
-===MACRO-SUPPLEMENTS===
+===Charlie's MACRO-SUPPLEMENTS===
 
 Supplement 13 - https://www.amazon.com/gp/product/B07PXNNFGT/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&th=1
 
@@ -271,3 +271,31 @@ Supplement 16 - https://www.amazon.com/gp/product/B07L9GVGPM/ref=ox_sc_act_image
 
 Ingredient															Amount per Serving
 Organic extra virgin olive oil (polyphenol-rich, cold-pressed)									3-4 tbsp
+
+===Microsoft Co-Pilot's Administration Recommendations by Supplement===
+
+Administration Recommendations by Supplement
+Supplement	Description	Group
+
+14	Sensitive Gut Fiber (2 g carbs, 4 g fiber, 34 mg Ca, 117 mg K + 5 g baobab/acacia + 3.5 g resistant starch)			EMPTY STOMACH
+15	Triple Fiber Powder (29 cal, 8 g carbs, 6 g fiber; inulin/acacia/psyllium blend)						EMPTY STOMACH
+7	NIAGEN® & Proprietary Polyphenol Blends (300 mg + 55 mg + 14 mg + 2.22 mg)							EMPTY STOMACH
+8	B-Complex, Choline & Q10 (B1–B6, Folate, B12, Biotin, B5, Choline + 140 mg blend + 10 mg PABA + 10 mg Inositol + 2 mg Q10)	EMPTY STOMACH
+9	Gabatrol Daily (Phyto-GABA 450 mg + Theanine 200 mg + 540 mg matrix)								EMPTY STOMACH
+12	Carnitine Blend (Acetyl-LC 800 mg + Arginate 300 mg + GPLC 300 mg)								EMPTY STOMACH
+3	Broccoli Seed & Sulforaphane (5 mg + 325 mg)											EMPTY STOMACH
+1	Multivitamin & Organics (A, C, D3, E, K2, B-complex, trace minerals, 6 organics)						WITH FOOD
+2	Turmeric Curcuminoids (100 mg + 750 mg blend)											WITH FOOD
+4	Nitrosigine® & S7® Polyphenols (500 mg + 50 mg + 30 mg + 5 mg)									WITH FOOD
+5	High-Dose Resveratrol & Anti-Age Polyphenols (600 mg + 300 mg + 200 mg + …)							WITH FOOD
+6	Broad Spectrum Polyphenol Blends (200 mg–150 mg each extract)									WITH FOOD
+10	Sunflower Lecithin Softgels (6 g lecithin + 555 mg PC + 5 g fat)								WITH FOOD
+11	Omega-3 Fish Oil (EPA 650 mg + DHA 450 mg)											WITH FOOD
+13	Plant Protein & Superfoods (21 g protein + fiber + vitamins/minerals + 50-food blend)						WITH FOOD
+16	Extra Virgin Olive Oil (3–4 tbsp polyphenol-rich EVOO)										WITH FOOD
+
+EMPTY STOMACH: Water-soluble vitamins, fast-absorbing botanicals, amino acids, fibers and NAD⁺ boosters are best taken first thing to maximize plasma uptake, microbiome feeding and gut–brain interaction.
+
+WITH FOOD: Fat-soluble vitamins, lipophilic phytonutrients and oil-based extracts require dietary fat for optimal micellar incorporation, slower release and minimized GI irritation.
+
+This strategic timing amplifies synergy, ensuring each supplement performs at peak effectiveness in your morning routine.
