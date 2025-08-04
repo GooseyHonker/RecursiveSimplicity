@@ -40,7 +40,7 @@ Ingredient															Amount per Serving
 Amount per 2 capsules
 Coenzyme Q10 (Ubidecarenone) 													200 mg
 
-Proprietary Blend 												q		50 mg
+Proprietary Blend 														50 mg
 Grape Extract (Seed)
 Turmeric (Root)
 Amla Extract (Fruit)
@@ -348,4 +348,5 @@ Supplement	Description														Group
 19	Silver Fern Brand Ultimate Clean-Up Kit - Moderate to Severe Issues - Cleanse Capsules & Nano Scrub Liquid, I Kit		EMPTY STOMACH - Min 30-45min BEFORE ALL Supplements 
 
 ===Copilot Supplement Matrix Validation follows===
+
 
