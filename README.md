@@ -62,6 +62,8 @@ Additional Disclaimer Copy
 ============================
 
 Disclaimer
+===
+
 This disclaimer (“Disclaimer”) applies to the book NeuroSimplicity by Charles D. Miller V, who is a layperson. Charles D. Miller V is me. I am not an expert. Please read this Disclaimer carefully. By reading this book, you acknowledge and agree to the terms set forth below.
 
 1. Purpose
