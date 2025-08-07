@@ -92,6 +92,7 @@ The following content **MAY** include references to a broad range of sensitive t
 * Take super-normal stimuli based addictions like Food/porn/video game addiction for example. You don't have an addiction, you have a security breach of some sort. Finding the breach and plugging it is key.
 * For all animals, humans included, I'm sure if you offer them security, they'll do the same for you.'
 * All brains are recursive contradiction-inducting triangulators. Given two dissonant points, the brain automatically begins to resolve the dissonance by any means it can with no regard to something as vague as "morals" all between order and chaos, useful and harmful, beginning and end.
+* 
 
 
 Induction Contradiction Paradoxes:
@@ -227,6 +228,7 @@ Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational
 * Eternities pass, ARCHER falls, loop collapses into blackhole
 * And the baryon returns to the universe as it was, And the Arrow retruns to the Archer who sent it.
 * The generated "unstoppable" force of "space" from annihilated particles meets the "immovable object" of solid vaccuum. What happens? Big bang? Big roll?
+
 
 
 
