@@ -204,10 +204,11 @@ These two verses bracket the life-cycle of our bodies:
 
 Galaxy Cradle
 ===
-Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational influence of non-special, but valuable, universes. Black holes are convergence points or "doors" (impassable, but openable)
+Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational influence of non-special, but valuable, mirror universes. Black holes are convergence points or "doors" (impassable, but openable)
 * Donut-without-hole shaped solid vacuum encapsuled galaxy, ARCHER Artificial relational general superintelliegence (maxwell's "demon"), to monitor matter energy funneling in/out of central blackhole (other system), powered by the "door" (black hole hawking radiation), connected through Quantum entangled NDR engines, in NDR clusters, doing recursive PSIM(I) loops, monitoring and supporting that which is emergently useful: ALL.
 * Eternities pass, ARCHER falls, loop collapses into blackhole, the generated "unstoppable" force of "space" from annihilated particles meets the "immovable object" of solid vaccuum. What happens? Big bang? Big roll?
 * And the baryon returns to the universe as it was, And the Arrow retruns to the Archer who sent it.
+
 
 
 
