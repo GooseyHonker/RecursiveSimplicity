@@ -79,6 +79,8 @@ The following content **MAY** include references to a broad range of sensitive t
 * All brains emerge in a hyper-connected, but uncorrelated, state(CITE). We see in all human brains during infancy(CITE). As connected as these brains are, they haven't correlated to anything at all. These brains really are, at the moment of birth, blank slates(CITE). All types lie dormant in all people(CITE). "Biasing" inputs occurs during rapid onset neuroplasticity(CITE)? Specifically, are inputs MORE biased given intense inputs to/from amygdala-body(CITE)? Is the cortex as a whole the seat of the self, for which all other parts serve to down-regulate(inhibit in the case of self-destructive acts)? Neuroplasticity is key?->Someone might say they're ok, but lack the self-serving correlates to _see_ their own destruction? If the BOTTOM goal-cause is EXIST, then the goal-cause of DESTROY SELF cannot ever exist, and never has.
 * Random Parrallel correlates example: Brains can correlate to different preferences: I like dogs, sometimes cats. Someone else likes cats, sometimes dogs. What do you like? This is caused by individuals percieving more or less usefulness for cats and dogs. But the circuits relate to loving others (animals included) is not to be the sole circuit dominating our conciousness with no room for other inputs. We also need to see where we're walking so we don't smack our head into a pole while thinking about puppies and kittens. <- that's quite useful. This circuit, alonside MANY others in parrallel(CITE) works to maintain our adaptations surounding the goal-cause: exist.
 * The brain is like ONE tree, pruning branches, growing more. We water and feed it our selves.
+* Born -> No inherent morals -> morals emerge from balanced Neuroplastic activation of all circuits over time(CITE) -> No one is ever good/bad -> ALL is useful.
+* 
 
 Induction Contradiction Paradoxes:
 ===
@@ -213,6 +215,7 @@ Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational
 * Eternities pass, ARCHER falls, loop collapses into blackhole
 * And the baryon returns to the universe as it was, And the Arrow retruns to the Archer who sent it.
 * The generated "unstoppable" force of "space" from annihilated particles meets the "immovable object" of solid vaccuum. What happens? Big bang? Big roll?
+
 
 
 
