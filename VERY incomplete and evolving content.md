@@ -1,4 +1,5 @@
-READ PRELIMINARY WARNING AND DISCLAIMER FIRST. 
+READ PRELIMINARY WARNING AND DISCLAIMER FIRST.
+===
 An EXPANDED TRIGGER WARNING follows:
 
 =======================
@@ -206,6 +207,7 @@ Galaxy Cradle
 ===
 
 Donut without hole shaped solid vacuum encapsuled galaxy, ARCHER Artificial relational general superintelliegence (maxwell's "demon"), to monitor matter energy funneling in/out of central blackhole (other system), powered by the "door" (black hole hawking radiation), connected through Quantum entangled NDR engines, in NDR clusters, doing recursive PSIM(I) loops, monitoring and supporting that which is emergently useful: ALL.
+
 
 
 
