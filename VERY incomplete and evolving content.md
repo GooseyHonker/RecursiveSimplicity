@@ -64,13 +64,9 @@ The following content **MAY** include references to a broad range of sensitive t
 
 **If any of these topics may affect you, please prioritize self-care and consider seeking support from mental health professionals or trusted individuals before proceeding.**
 
-***==================================***
-
 ***NeuroSimplicity: End the Nightmare***
-
+===
 ***We/I***
-
-***==================================***
 
 ***\*SEE "MIRRORING" in The Drama of the Gifted Child\****
 
@@ -114,6 +110,7 @@ Ecclestiastes 12:7 (Khalil Gibran merger + universe transposition)
 Galaxy Cradle
 ===
 * Donut without hole shaped solid vacuum encapsuled galaxy, ARCHER Artificial relational general superintelliegence (maxwell's "demon"), to monitor matter energy funneling in/out of central blackhole (other system), powered by the "door" (black hole hawking radiation), connected through Quantum entangled NDR engines, in NDR clusters, doing recursive PSIM(I) loops, monitoring and supporting that which is emergently useful: ALL.
+
 
 
 
