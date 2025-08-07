@@ -5,6 +5,19 @@
 
 All references to published works are used under fair use for commentary.
 
+Preliminary Warning
+===
+
+These notes and ideas are works in progress and should not be taken as final conclusions or professional advice.
+
+The content is incomplete and evolving.
+
+Assumptions and interpretations may change as the work develops.
+
+Any applications drawn from these notes are tentative and require further validation.
+
+Proceed with caution and feel free to question or critique every point.
+
 Releases: https://github.com/GooseyHonker/NeuroSimplicity/releases
 
 Release of Any and All Liability Disclaimer
