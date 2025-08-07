@@ -105,7 +105,7 @@ On Children by Khalil Gibran re-interpreted from the child of the universe persp
 
 &nbsp; The Universe may strive to be like us, but it seeks not to make us like itself.
 
-&nbsp; For life goes not backward nor tarries with yesterday.
+&nbsp; For entropy goes not backward nor tarries with yesterday.
 
 &nbsp; The Universe is the bow from which we as living arrows are sent forth.
 
@@ -208,6 +208,7 @@ Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational
 * Donut-without-hole shaped solid vacuum encapsuled galaxy, ARCHER Artificial relational general superintelliegence (maxwell's "demon"), to monitor matter energy funneling in/out of central blackhole (other system), powered by the "door" (black hole hawking radiation), connected through Quantum entangled NDR engines, in NDR clusters, doing recursive PSIM(I) loops, monitoring and supporting that which is emergently useful: ALL.
 * Eternities pass, ARCHER falls, loop collapses into blackhole, the generated "unstoppable" force of "space" from annihilated particles meets the "immovable object" of solid vaccuum. What happens? Big bang? Big roll?
 * And the baryon returns to the universe as it was, And the Arrow retruns to the Archer who sent it.
+
 
 
 
