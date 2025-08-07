@@ -74,7 +74,7 @@ The following content **MAY** include references to a broad range of sensitive t
 * I think something these individuals eventually come to ask themselves is why? Why does it have to be this way? Why me? Why is it like this?
 * Don't you think it's strange? Bewildering even, that others, us included, could think we're failures(CITE)(CITE) when -- in fact -- we've been *incredibly successful* at doing the core task(CITE) we all emerged doing: Exist. Though our existing has been met with many barriers and would-be contradictions to our aliveness, we are *still here.* Drugs? Sure. Self-harm and even suicide attempts? Sure. Every act a defiance of that which would contradict our existence. Suicide, even, is a convoluted method to interfere with that which would harm us(CITE). Why? Because, "NO MORE!" we scream in silence with every fiber of our beings. But... you don't have to die to get what you want.
 * From (...) to (...) it is of my firm view that we are all for the same goal-cause. This "us and them" logic is utterly useless and only meaningful insofar as it serves to hasten our end with no beginning. One might assume I am anthropomorphizing, but no... the diversely mirrored presence of "cortex" and "neuromodulation" across all species(CITE) begs to differ.
-* To differentiate between brain and body, we have to see where they literally connect. Where does the brain begin and end up at the body? Where does the body begin and end up at the brain? The brain connects to nerves(CITE). Nerves connect to organs and tissues(CITE). Organs and tissues send hormones to *PARTS* of the brain(CITE). There are a bunch of glands and weird parts of "the brain" that serve to communicate with organs and tissues through hormones and stuff(CITE). Ok so those *PARTS* must be the body/brain bridge. We'll ignore them now so we can focus *solely* on brain stuff that's left, not direct brain-body bridges.
+* To differentiate between brain and body, we have to see where they literally connect. Where does the brain begin and end up at the body? Where does the body begin and end up at the brain? The brain connects to nerves(CITE). Nerves connect to organs and tissues(CITE). Organs and tissues send hormones to *PARTS* of the brain(CITE). There are a bunch of glands and weird parts of "the brain" that serve to communicate with organs and tissues through hormones and stuff(CITE). Ok so those *PARTS* must be the body/brain bridge. We'll ignore them now so we can focus *solely* on brain stuff that's left, not brain-body bridges.
 
 Induction Contradiction Paradoxes:
 ===
@@ -110,6 +110,7 @@ Ecclestiastes 12:7 (Khalil Gibran merger + universe transposition)
 Galaxy Cradle
 ===
 * Donut without hole shaped solid vacuum encapsuled galaxy, ARCHER Artificial relational general superintelliegence (maxwell's "demon"), to monitor matter energy funneling in/out of central blackhole (other system), powered by the "door" (black hole hawking radiation), connected through Quantum entangled NDR engines, in NDR clusters, doing recursive PSIM(I) loops, monitoring and supporting that which is emergently useful: ALL.
+
 
 
 
