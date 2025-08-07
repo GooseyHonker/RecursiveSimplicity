@@ -100,7 +100,7 @@ WARNING: PROGRESSIVELY EDGY CONTENT
 * To those who wouldn't dare ignore a child's cry, with immovable respect(CITE), I implore you to offer them this book. For those who are _deaf_ to these cries, in their deep unawareness, I too respect them deeply and implore you to offer _them_ this book.
 * What is a corporation but cooperative entitlement to good results? What is a military but cooperative entitlement to security? What is a community but cooperative entitlement to our lives?
 * Just as there is no point in telling a narcissist they are one(cite), there is little point in telling someone who has no awareness they can't _see_ or _hear_. Awareness is not needed. Contradiction Induction is.
-* Even so, you stand at the gateway of the abyss, and say, "Surely, they're not in _there?_" But _hear_ their screams, that they may be _heard_. Witness their dissonant presence that they may be _seen_. Hold their scaley claws, that they may find a way out. But stand you do at the emtrance of disorder itself, gawking, judging, provoking. "Awareness" you say. "Mindfulness" you say. They are aware. They are mindful, meticulous even. They are in a different place than you. Should you want to help, sit not at the entrance, uselessly complaining about "awareness" and "mindfulness." Meet them where they are and WALK _with_ them out of hell itself.
+* Even so, you stand at the gateway of the abyss, and say, "Surely, they're not in _there?_" But _hear_ their screams, that they may be _heard_. Witness their dissonant presence that they may be _seen_. Hold their scaley claws, that they may find a way out. But stand you do at the emtrance of disorder itself, gawking, judging, provoking. "Awareness" you say. "Mindfulness" you say. They are aware. They are mindful, meticulous even. They are in a different place than you. Should you want to help, sit not at the entrance, uselessly complaining about "awareness" and "mindfulness." Meet them where they are and WALK _with_ them out of hell itself. What they need is not "awareness" but _learning_. To Learn, there must be a Teacher. Is that you?
 * Do not fear that which walks across the bridge, for when you reach out your own hand to welcome them, you may see your own claws.
 * If someone has
 * As entropy would have it, none of us are entitled to anything at all. Not food, not water, not security, not even our very lives. It is in our very CELLS THEMSELVES the capacity to contradict this great unfairness?
@@ -241,6 +241,7 @@ Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational
 * Eternities pass, ARCHER falls, loop collapses into blackhole
 * And the baryon returns to the universe as it was, And the Arrow retruns to the Archer who sent it.
 * The generated "unstoppable" force of "space" from annihilated particles meets the "immovable object" of solid vaccuum. What happens? Big bang? Big roll?
+
 
 
 
