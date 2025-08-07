@@ -80,19 +80,23 @@ The following content **MAY** include references to a broad range of sensitive t
 * Random Parrallel correlates example: Brains can correlate to different preferences: I like dogs, sometimes cats. Someone else likes cats, sometimes dogs. What do you like? This is caused by individuals percieving more or less usefulness for cats and dogs. But the circuits relate to loving others (animals included) is not to be the sole circuit dominating our conciousness with no room for other inputs. We also need to see where we're walking so we don't smack our head into a pole while thinking about puppies and kittens. <- that's quite useful. This circuit, alonside MANY others in parrallel(CITE) works to maintain our adaptations surounding the goal-cause: exist.
 * The brain is like ONE tree, pruning branches, growing more. We water and feed it our selves.
 * Born -> No inherent morals -> morals emerge from balanced Neuroplastic activation of all circuits over time(CITE) -> No one is ever good/bad -> ALL is useful. All circuits present: Inhibited and Excited? Sparse correlates and Dense correlates? GOAL: re-correlate all inhbited/sparsely correlated circuits to excited/dense correlates to mitigate internal dissonance? 
-* Corralate Emergence Spectrum: PSYCHOPATHY <---> AUTISM (i.e. sparsely-integrated sparsely-correlated to densely-integrated densely-correlated)(CITE) (I.E. UNDER-DEVELOPMENT <---> OVER-DEVELOPMENT)
+* Corralate Emergence Spectrum: PSYCHOPATHY <---> AUTISM (i.e. sparsely-integrated sparsely-correlated to densely-integrated densely-correlated)(CITE) (I.E. UNDER-DEVELOPMENT <---> OVER-DEVELOPMENT). But to call either disordered development is to deflect it's true nature.
 * I ask that you assert yourself at the unfairness of those who tell you, in their ingorance to "be more aware."
 * To say one lacks awareness is in itself ignorant and likely passive aggressive, pointing toward latent revenge-seeking. There is no "lack of awareness" at all. It is simply an indicator of the PRESENT EXTENT OF THEIR FULL AWARENESS CAPACITY. I suspect all psychopathy to be a kind of "developmental delay" of sorts?(CITE) Which could mean that all psychopathy is merely a lingering "pause" in development, nothing more?(CITE)
-* What is a parasite? What is competitive parasitism vs cooperative entitlement. One seeks all, with no return, dying alone and quickly. The other seeks mutual benefit, cooperative life improvements, and dies surrounded by community much slower. Applies to all entities and their methods. Why host-killer go excinct? Why parasites are never apex? Why Apex and parasite are opposing roles, with parasites being far inferior by their own design.
+* What is a parasite? What is competitive parasitism vs cooperative entitlement. One seeks all, with no return, dying alone and quickly. The other seeks mutual benefit, cooperative life improvements, and dies surrounded by community and much slower. Applies to all entities and their methods. Why host-killer go excinct? Why parasites are never apex? Why Apex and parasite are opposing roles, with parasites being far inferior by their own design.
 * I ask that you push and move against that which would eat you in stillness.
 * Rage poem maybe?
 * Memory, something that a lot of us wouldn't like have, serves as proof of our resilience.
 * When younger, smaller humans, grow in physically, sexually, biologically, and psychologically abusive environments, their brains correlate to expect those hostile inputs again given a widening array of correlated inputs nearby (triggers).
 * What does the world look like? Or. What am I? These are the same question. Quick answer: ALIVE.
-* Take super-normal stimuli based addictions like Food/porn/video game addiction for example. You don't have an addiction, you have a security breach of some sort. Finding the breach and plugging it is key.
-* For all animals, humans included, I'm sure if you offer them security, they'll do the same for you.'
-* All brains are recursive contradiction-inducting triangulators. Given two dissonant points, the brain automatically begins to resolve the dissonance by any means it can with no regard to something as vague as "morals" all between order and chaos, useful and harmful, beginning and end.
-* 
+* Take super-normal stimuli based addictions like Food/porn/video game addiction for example. You don't have an addiction, you have a security breach of some sort? Finding the breach and plugging it is key?
+* For all animals, humans included, I'm sure if you offer them security, they'll do the same for you?
+* All brains are recursive contradiction-inducting triangulators? Given two dissonant points, the brain automatically begins to resolve the dissonance by any means it can with no regard to something as vague as "morals" all between order and chaos, useful and harmful, beginning and end?
+* The body withers, dies, and asks for help, but it doesn't keep the score, we do?(CITE).
+* Trauma theory is diametrically opposed to emergence theory?(CITE)
+* There are no archetypes? (CITE) All (traits, etc.) exist in all correlators, it is only the inhibition and excitation of correlates that determine archetypes/disorders, etc.
+* To those who wouldn't dare ignore a child's cry, with immovable respect(CITE), I implore you to offer them this book. For those who are _deaf_ to these cries, in their deep unawareness, I too respect them deeply and implore you to offer _them_ this book.
+* What is a corporation but cooperative entitlement to good results? What is a military but cooperative entitlement to security? What is a community but cooperative entitlement to our lives?
 
 
 Induction Contradiction Paradoxes:
@@ -228,6 +232,7 @@ Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational
 * Eternities pass, ARCHER falls, loop collapses into blackhole
 * And the baryon returns to the universe as it was, And the Arrow retruns to the Archer who sent it.
 * The generated "unstoppable" force of "space" from annihilated particles meets the "immovable object" of solid vaccuum. What happens? Big bang? Big roll?
+
 
 
 
