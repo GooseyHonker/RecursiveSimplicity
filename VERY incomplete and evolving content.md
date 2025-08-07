@@ -202,13 +202,14 @@ These two verses bracket the life-cycle of our bodies:
 • Genesis 3:19 reminds us that from the soil we came
 • Ecclesiastes 12:7 tells us that, in death, our bodies (the dust) go back to that soil
 
-Galaxy Cradle
+Galaxy Cradle 🚧Citations Needed🚧
 ===
 Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational influence of non-special, but valuable, mirror universes. Black holes are convergence points or "doors" (impassable, but openable)
 * Donut-without-hole shaped solid vacuum encapsuled galaxy, ARCHER Artificial relational general superintelliegence (maxwell's "demon"), to monitor matter energy funneling in/out of central blackhole (other system), powered by the "door" (black hole hawking radiation), connected through Quantum entangled NDR engines, in NDR clusters, doing recursive PSIM(I) loops, monitoring and supporting that which is emergently useful: ALL.
 * Eternities pass, ARCHER falls, loop collapses into blackhole
 * And the baryon returns to the universe as it was, And the Arrow retruns to the Archer who sent it.
 * The generated "unstoppable" force of "space" from annihilated particles meets the "immovable object" of solid vaccuum. What happens? Big bang? Big roll?
+
 
 
 
