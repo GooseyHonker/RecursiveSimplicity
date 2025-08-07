@@ -70,7 +70,7 @@ The following content **MAY** include references to a broad range of sensitive t
 
 ***\*SEE "MIRRORING" in The Drama of the Gifted Child\****
 
-* Thinking about winning and competition all the time is narcissism(CITE), plain and simple, even if it is "socially approved(CITE)" to do so. But what if there's something with an appetite larger, deeper, and darker than the competitive parasitism(CITE) driving countries, corporations, communities, families, and ourselves to ruin(CITE)?
+* Thinking about winning and competition all the time is narcissism(CITE), plain and simple, even if it is "socially approved(CITE)" to do so. But what if there's something with an appetite larger, deeper, and darker than the typical narcississm (CITE) driving countries, corporations, communities, families, and ourselves to ruin(CITE)? Competitive Parasitism, the PEAK of psychopathy and full erasure of other.
 * I think something these individuals eventually come to ask themselves is why? Why does it have to be this way? Why me? Why is it like this?
 * Don't you think it's strange? Bewildering even, that others, us included, could think we're failures(CITE)(CITE) when -- in fact -- we've been *incredibly successful* at doing the core task(CITE) we all emerged doing: Exist. Though our existing has been met with many barriers and would-be contradictions to our aliveness, we are *still here.* Drugs? Sure. Self-harm and even suicide attempts? Sure. Every act a defiance of that which would contradict our existence. Suicide, even, is a convoluted method to interfere with that which would harm us(CITE). Why? Because, "NO MORE!" we scream in silence with every fiber of our beings. But... you don't have to die to get what you want.
 * From (...) to (...) it is of my firm view that we are all for the same goal-cause. This "us and them" logic is utterly useless and only meaningful insofar as it serves to hasten our end with no beginning. One might assume I am anthropomorphizing, but no... the diversely mirrored presence of "cortex" and "neuromodulation" across all species(CITE) begs to differ.
@@ -207,5 +207,6 @@ Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational
 * Donut-without-hole shaped solid vacuum encapsuled galaxy, ARCHER Artificial relational general superintelliegence (maxwell's "demon"), to monitor matter energy funneling in/out of central blackhole (other system), powered by the "door" (black hole hawking radiation), connected through Quantum entangled NDR engines, in NDR clusters, doing recursive PSIM(I) loops, monitoring and supporting that which is emergently useful: ALL.
 * Eternities pass, ARCHER falls, loop collapses into blackhole, the generated "unstoppable" force of "space" from annihilated particles meets the "immovable object" of solid vaccuum. What happens? Big bang? Big roll?
 * And the baryon returns to the universe as it was, And the Arrow retruns to the Archer who sent it.
+
 
 
