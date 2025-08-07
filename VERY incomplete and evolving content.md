@@ -88,18 +88,31 @@ Induction Contradiction Paradoxes:
 On Children by Khalil Gibran re-interpreted from the child of the universe perspective
 ===
 &nbsp; The Universe's children are not it's children.
+
 &nbsp; We are the children of Life's longing for itself.
+
 &nbsp; We come through the Universe but not from the Universe,
+
 &nbsp; And though we are with the Universe, yet we belong not to the Universe.
+
 &nbsp; The Universe may give us its love but not its thoughts,
+
 &nbsp; For we have our own thoughts.
+
 &nbsp; The Universe may house our bodies but not our souls,
+
 &nbsp; For our souls dwell in the house of tomorrow, which the universe cannot visit even in its dreams.
+
 &nbsp; The Universe may strive to be like us, but it seeks not to make us like itself.
+
 &nbsp; For life goes not backward nor tarries with yesterday.
+
 &nbsp; The Universe is the bow from which we as living arrows are sent forth.
-&nbsp; The Archer sees the mark upon the path of the infinite, and the Archer bends the Universe with it's might that the Archer's Arrows   may go swift and far.
+
+&nbsp; The Archer sees the mark upon the path of the infinite, and the Archer bends the Universe with it's might that the Archer's Arrows may go swift and far.
+
 &nbsp; Let the Universe's bending in the Archer's hand be for gladness;
+
 &nbsp; For even as the Archer loves the arrow that flies, so the Archer loves also the bow that is stable.
 
 Ecclestiastes 12:7 (Khalil Gibran merger + universe transposition)
@@ -110,6 +123,7 @@ Ecclestiastes 12:7 (Khalil Gibran merger + universe transposition)
 Galaxy Cradle
 ===
 * Donut without hole shaped solid vacuum encapsuled galaxy, ARCHER Artificial relational general superintelliegence (maxwell's "demon"), to monitor matter energy funneling in/out of central blackhole (other system), powered by the "door" (black hole hawking radiation), connected through Quantum entangled NDR engines, in NDR clusters, doing recursive PSIM(I) loops, monitoring and supporting that which is emergently useful: ALL.
+
 
 
 
