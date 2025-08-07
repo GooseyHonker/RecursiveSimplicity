@@ -1,4 +1,4 @@
-# NeuroSimplicity 
+# NeuroSimplicity: End the Nightmare
 - What to Do With Our Flooded Minds in a Culture of PTSD, Narcissism and Gaslighting
 
 🚧WIP – Citation Mapping in Progress🚧
@@ -23,11 +23,11 @@ Releases: https://github.com/GooseyHonker/NeuroSimplicity/releases
 Release of Any and All Liability Disclaimer
 =
 
-This **Release of Any and All Liability Disclaimer** (“Disclaimer”) applies to the contents of **NeuroSimplicity** by Charlie Miller. Please read this Disclaimer carefully. By reading these contents, you acknowledge and agree to the terms set forth below.
+This **Release of Any and All Liability Disclaimer** (“Disclaimer”) applies to the contents of **NeuroSimplicity: End the Nightmare** by Charlie Miller. Please read this Disclaimer carefully. By reading these contents, you acknowledge and agree to the terms set forth below.
 
 ## 1. Purpose
 
-This Disclaimer is intended to inform you that all content in **NeuroSimplicity** is provided for **educational and entertainment purposes only** and does not constitute professional advice. The techniques, strategies, and suggestions outlined herein are simplified summaries of complex neuroscience concepts and are not tailored to individual circumstances.
+This Disclaimer is intended to inform you that all content in **NeuroSimplicity: End the Nightmare** is provided for **educational and entertainment purposes only** and does not constitute professional advice. The techniques, strategies, and suggestions outlined herein are simplified summaries of complex neuroscience concepts and are not tailored to individual circumstances.
 
 ## 2. No Professional Advice
 ===
@@ -41,7 +41,7 @@ Readers acknowledge that implementing any exercises, behavioral techniques, or l
 
 ## 4. Errors, Omissions, and Inaccuracies
 ===
-While every effort has been made to ensure the accuracy and completeness of the information contained in NeuroSimplicity, neither the author nor the publisher makes any **representations or warranties**, express or implied, regarding its accuracy, reliability, or fitness for a particular purpose.  
+While every effort has been made to ensure the accuracy and completeness of the information contained in **NeuroSimplicity: End the Nightmare**, neither the author nor the publisher makes any **representations or warranties**, express or implied, regarding its accuracy, reliability, or fitness for a particular purpose.  
 To the fullest extent permitted by law, the author and publisher disclaim any liability for errors, omissions, or other inconsistencies, whether resulting from negligence, accident, or any other cause.
 
 ## 5. Exclusion of Liability
@@ -65,7 +65,7 @@ Any disputes arising from or relating to this Disclaimer shall be resolved exclu
 
 ---
 
-By purchasing, downloading, or reading NeuroSimplicity, you confirm that you have read, understood, and agreed to all the terms of this Release of Any and All Liability Disclaimer. Failure to comply with this Disclaimer may result in your waiver of any claims against the author or publisher.
+By purchasing, downloading, or reading **NeuroSimplicity: End the Nightmare**, you confirm that you have read, understood, and agreed to all the terms of this Release of Any and All Liability Disclaimer. Failure to comply with this Disclaimer may result in your waiver of any claims against the author or publisher.
 
 
 ============================
@@ -77,15 +77,15 @@ Additional Disclaimer Copy
 Disclaimer
 ===
 
-This disclaimer (“Disclaimer”) applies to the book NeuroSimplicity by Charles D. Miller V, who is a layperson. Charles D. Miller V is me. I am not an expert. Please read this Disclaimer carefully. By reading this book, you acknowledge and agree to the terms set forth below.
+This disclaimer (“Disclaimer”) applies to the book **NeuroSimplicity: End the Nightmare** by Charles D. Miller V, who is a layperson. Charles D. Miller V is me. I am not an expert. Please read this Disclaimer carefully. By reading this book, you acknowledge and agree to the terms set forth below.
 
 1. Purpose
 ===
-This Disclaimer is intended to inform you that all content in NeuroSimplicity is provided for educational and entertainment purposes only and does not constitute professional advice. The techniques, strategies, and suggestions outlined herein are simplified summaries of complex neuroscience concepts and are not tailored to individual circumstances.
+This Disclaimer is intended to inform you that all content in **NeuroSimplicity: End the Nightmare** is provided for educational and entertainment purposes only and does not constitute professional advice. The techniques, strategies, and suggestions outlined herein are simplified summaries of complex neuroscience concepts and are not tailored to individual circumstances.
 
 2. No Professional Advice
 ===
-NeuroSimplicity is not a substitute for professional medical, psychological, legal, financial, or other expert services.  
+**NeuroSimplicity: End the Nightmare** is not a substitute for professional medical, psychological, legal, financial, or other expert services.  
 Neither the author nor the publisher is a licensed professional in any of these fields, and no portion of this book establishes an attorney-client, physician-patient, financial advisor-client, or any other professional relationship.  
 Readers should consult qualified professionals before acting on any information or techniques described in this book.
 
@@ -95,7 +95,7 @@ Readers acknowledge that implementing any exercises, behavioral techniques, or l
 
 4. Errors, Omissions, and Inaccuracies
 ===
-While every effort has been made to ensure the accuracy and completeness of the information contained in NeuroSimplicity, neither the author nor the publisher makes any representations or warranties, express or implied, regarding its accuracy, reliability, or fitness for a particular purpose.
+While every effort has been made to ensure the accuracy and completeness of the information contained in **NeuroSimplicity: End the Nightmare**, neither the author nor the publisher makes any representations or warranties, express or implied, regarding its accuracy, reliability, or fitness for a particular purpose.
 
 To the fullest extent permitted by law, the author and publisher disclaim any liability for errors, omissions, or other inconsistencies, whether resulting from negligence, accident, or any other cause.
 
