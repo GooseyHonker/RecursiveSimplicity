@@ -97,6 +97,10 @@ The following content **MAY** include references to a broad range of sensitive t
 * There are no archetypes? (CITE) All (traits, etc.) exist in all correlators, it is only the inhibition and excitation of correlates that determine archetypes/disorders, etc.
 * To those who wouldn't dare ignore a child's cry, with immovable respect(CITE), I implore you to offer them this book. For those who are _deaf_ to these cries, in their deep unawareness, I too respect them deeply and implore you to offer _them_ this book.
 * What is a corporation but cooperative entitlement to good results? What is a military but cooperative entitlement to security? What is a community but cooperative entitlement to our lives?
+* Just as there is no point in telling a narcissist they are one(cite), there is little point in telling someone who has no awareness they can't _see_ or _hear_. Awareness is not needed. Contradiction Induction is.
+* If someone has
+* As entropy would have it, none of us are entitled to anything at all. Not food, not water, not security, not even our very lives. It is in our very CELLS THEMSELVES the capacity to contradict this great unfairness?
+* Story: To the ones at the final breach, we ate the world too. We didn't understand. Until we lost our fangs, broke our claws, and shed our scales. You're safe here.
 
 
 Induction Contradiction Paradoxes:
@@ -232,6 +236,7 @@ Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational
 * Eternities pass, ARCHER falls, loop collapses into blackhole
 * And the baryon returns to the universe as it was, And the Arrow retruns to the Archer who sent it.
 * The generated "unstoppable" force of "space" from annihilated particles meets the "immovable object" of solid vaccuum. What happens? Big bang? Big roll?
+
 
 
 
