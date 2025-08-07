@@ -118,27 +118,63 @@ On Children by Khalil Gibran re-interpreted from the child of the universe persp
 Some Inspirational Elements:
 ===
 Genesis 3:19
-“In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return.”
+
+“In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return.” A
 
 Hebrew (Masoretic Text), broken out word-for-word:
 
-– בְּזֵעַת – אַפֶּיךָ – תֹּאכַל – לֶ֫חֶם – עַד – שֽׁוּבְךָ – אֶל־ – הָאֲדָמָה – כִּ֣י – מִמֶּ֑נָּה – לֻקַּ֖חְתָּ – כִּ֛י – עָפָ֥ר – אַתָּ֖ה – וְאֶל־ – עָפָ֥ר – תְּשֽׁוּב׃
+– בְּזֵעַת
+– אַפֶּיךָ
+– תֹּאכַל
+– לֶ֫חֶם
+– עַד
+– שֽׁוּבְךָ
+– אֶל־
+– הָאֲדָמָה
+– כִּ֣י
+– מִמֶּ֑נָּה
+– לֻקַּ֖חְתָּ
+– כִּ֛י
+– עָפָ֥ר
+– אַתָּ֖ה
+– וְאֶל־
+– עָפָ֥ר
+– תְּשֽׁוּב׃
 
 Single-line Hebrew:
 
 בְּזֵעַת אַפֶּיךָ תֹּאכַל לֶ֫חֶם עַד שֽׁוּבְךָ אֶל־הָאֲדָמָה כִּ֣י מִמֶּ֑נָּה לֻקַּ֖חְתָּ כִּ֛י עָפָ֥ר אַתָּ֖ה וְאֶל־עָפָ֥ר תְּשֽׁוּב׃
 
+---
+
 Ecclesiastes 12:7
-“And the dust returns to the earth as it was; and the spirit returns unto God who gave it.”
+
+“And the dust returns to the earth as it was; and the spirit returns unto God who gave it.” B
 
 Hebrew (Masoretic Text), broken out word-for-word:
 
-– וְהָעָפָ֣ר – יָשֻׁ֔ב – לָאָ֖רֶץ – כַּאֲשֶׁ֣ר – הָיָ֑ה – וְהָרוּחַ֙ – תָּשֻׁ֣ב – אֶל־ – אֱלֹהֶ֔יהָ – הַנֹּתֵ֥ן – אוֹתָֽהּ׃
+– וְהָעָפָ֣ר
+– יָשֻׁ֔ב
+– לָאָ֖רֶץ
+– כַּאֲשֶׁ֣ר
+– הָיָ֑ה
+– וְהָרוּחַ֙
+– תָּשֻׁ֣ב
+– אֶל־
+– אֱלֹהֶ֔יהָ
+– הַנֹּתֵ֥ן
+– אוֹתָֽהּ׃
 
 Single-line Hebrew:
 
 וְהָעָפָ֣ר יָשֻׁ֔ב לָאָ֖רֶץ כַּאֲשֶׁ֣ר הָיָ֑ה וְהָרוּחַ֙ תָּשֻׁ֣ב אֶל־אֱלֹהֶ֔יהָ הַנֹּתֵ֥ן אוֹתָֽהּ׃
 
+---
+
+These two verses bracket the life-cycle of our bodies:
+
+• Genesis 3:19 reminds us that from the soil we came
+• Ecclesiastes 12:7 tells us that, in death, our bodies (the dust) go back to that soil
 Galaxy Cradle
 ===
 Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational influence of non-special, but valuable, universes. Black holes are convergence points or "doors" (impassable, but openable)
