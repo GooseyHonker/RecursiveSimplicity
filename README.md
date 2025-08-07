@@ -8,7 +8,7 @@ All references to published works are used under fair use for commentary.
 Preliminary Warning
 ===
 
-These notes and ideas are works in progress and should not be taken as final conclusions or professional advice.
+These notes, contents, and ideas are works in progress and should not be taken as final conclusions or professional advice.
 
 The content is incomplete and evolving.
 
