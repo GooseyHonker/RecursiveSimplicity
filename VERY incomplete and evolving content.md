@@ -10,137 +10,63 @@ READ PRELIMINARY WARNING AND DISCLAIMER FIRST. An EXPANDED TRIGGER WARNING follo
 
 The following content MAY include references to a broad range of sensitive topics. Proceed only if you feel prepared to engage with these themes.
 
-
-
-Abuse and Violence
-
-
-
-Physical abuse
-
-Emotional and psychological abuse
-
-Sexual abuse and assault
-
-Domestic violence
-
-Child abuse and neglect
-
-Elder abuse
-
-Bullying and harassment
-
-Torture, captivity, and kidnapping
-
-Stalking and coercive control
-
-
-
-Mental Health and Self-Harm
-
-
-
-Suicidal ideation and attempts
-
-Self-harm behaviors (cutting, burning)
-
-Depression, hopelessness, and despair
-
-Anxiety, panic attacks, and phobias
-
-Post-traumatic stress disorder (PTSD) and flashbacks
-
-Psychosis, hallucinations, and dissociation
-
-Eating disorders (anorexia, bulimia, bingeing)
-
-Substance use disorders and addiction
-
-
-
-Medical and Physical Trauma
-
-
-
-Blood, needles, injections, and injuries
-
-Amputation and disfigurement
-
-Infectious diseases, pandemics, and contagion
-
-Chronic illness and disability experiences
-
-
-
-Death, Grief, and Loss
-
-
-
-Death of a loved one or pet
-
-Descriptions of funerals, burials, and cremations
-
-Grief, mourning, and bereavement
-
-
-
-Discrimination and Social Injustice
-
-
-
-Racism, hate crimes, and racial violence
-
-Sexism, misogyny, and gender-based violence
-
-Homophobia, transphobia, and LGBTQ+ discrimination
-
-Xenophobia, anti-immigrant sentiment, and harassment
-
-Classism, poverty, and economic exploitation
-
-Ableism and disability discrimination
-
-Religious persecution and hate speech
-
-
-
-Sexual Content and Intimacy
-
-
-
-Non-consensual or coerced sexual acts
-
-Rape, incest, and sexual slavery
-
-Child sexual abuse and exploitation
-
-Sex trafficking and prostitution
-
-Explicit erotic content and detailed descriptions
-
-
-
-Other Potential Triggers
-
-
-
-Animal cruelty and graphic depictions
-
-Natural disasters, terrorism, and warfare
-
-Kidnapping, human trafficking, and forced labor
-
-Gaslighting, manipulation, and betrayal
-
-Substance overdose, poisoning, or withdrawal
-
-Legal violence (torture, incarceration, death penalty)
-
-
-
-If any of these topics may affect you, please prioritize self-care and consider seeking support from mental health professionals or trusted individuals before proceeding.
-
-
+**Abuse and Violence**
+* Physical abuse
+* Emotional and psychological abuse
+* Sexual abuse and assault
+* Domestic violence
+* Child abuse and neglect
+* Elder abuse
+* Bullying and harassment
+* Torture, captivity, and kidnapping
+* Stalking and coercive control
+
+**Mental Health and Self-Harm**
+* Suicidal ideation and attempts
+* Self-harm behaviors (cutting, burning)
+* Depression, hopelessness, and despair
+* Anxiety, panic attacks, and phobias
+* Post-traumatic stress disorder (PTSD) and flashbacks
+* Psychosis, hallucinations, and dissociation
+* Eating disorders (anorexia, bulimia, bingeing)
+* Substance use disorders and addiction
+
+**Medical and Physical Trauma**
+* Blood, needles, injections, and injuries
+* Amputation and disfigurement
+* Infectious diseases, pandemics, and contagion
+* Chronic illness and disability experiences
+
+**Death, Grief, and Loss**
+* Death of a loved one or pet
+* Descriptions of funerals, burials, and cremations
+* Grief, mourning, and bereavement
+
+**Discrimination and Social Injustice**
+* Racism, hate crimes, and racial violence
+* Sexism, misogyny, and gender-based violence
+* Homophobia, transphobia, and LGBTQ+ discrimination
+* Xenophobia, anti-immigrant sentiment, and harassment
+* Classism, poverty, and economic exploitation
+* Ableism and disability discrimination
+* Religious persecution and hate speech
+
+**Sexual Content and Intimacy**
+* Non-consensual or coerced sexual acts
+* Rape, incest, and sexual slavery
+* Child sexual abuse and exploitation
+* Sex trafficking and prostitution
+* Explicit erotic content and detailed descriptions
+
+**Other Potential Triggers**
+* Animal cruelty and graphic depictions
+* Natural disasters, terrorism, and warfare
+* Kidnapping, human trafficking, and forced labor
+* Gaslighting, manipulation, and betrayal
+* Substance overdose, poisoning, or withdrawal
+* Legal violence (torture, incarceration, death penalty)
+
+**If any of these topics may affect you, please prioritize self-care and consider seeking support from mental health professionals or trusted individuals before proceeding.**
 
 ***==================================***
 
@@ -279,6 +205,7 @@ Galaxy Cradle
 ===
 
 Donut without hole shaped solid vacuum encapsuled galaxy, ARCHER Artificial relational general superintelliegence (maxwell's "demon"), to monitor matter energy funneling in/out of central blackhole (other system), powered by the "door" (black hole hawking radiation), connected through Quantum entangled NDR engines, in NDR clusters, doing recursive PSIM(I) loops, monitoring and supporting that which is emergently useful: ALL.
+
 
 
 
