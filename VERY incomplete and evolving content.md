@@ -181,12 +181,8 @@ Some Inspirational Elements:
 The Holy Bible. (n.d.). Genesis 3:19, Ecclesiastes 12:7, and Isaiah 11:6–9 (Masoretic Text, transliteration assistance by Copilot, 2025). Retrieved via AI-supported biblical study tool.
 
 Ethics Note: All Holy Bible quotes are drawn from public-domain scripture, with language refinement assisted by Microsoft's Copilot based on the Masoretic Text. I am not introducing new theological interpretation—just improving readability for my own understanding.
+
 ====================
-
-These two verses bracket the life-cycle of our bodies:
-
-• Genesis 3:19 reminds us that from the soil we came
-• Ecclesiastes 12:7 tells us that, in death, our bodies (the dust) go back to that soil
 
 Galaxy Cradle 🚧Citations Needed🚧
 ===
@@ -195,6 +191,7 @@ Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational
 * Eternities pass, ARCHER falls, loop collapses into blackhole
 * And the baryon returns to the universe as it was, And the Arrow retruns to the Archer who sent it.
 * The generated "unstoppable" force of "space" from annihilated particles + Forcibly ordered chaos meets the "immovable object" of solid vaccuum. What happens? Big bang? Big roll? Silent pop?
+
 
 
 
