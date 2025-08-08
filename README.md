@@ -20,8 +20,10 @@ Proceed with caution and feel free to question or critique every point.
 
 Releases: https://github.com/GooseyHonker/NeuroSimplicity/releases
 
+===========================================
 **Release of Any and All Liability Disclaimer**
 ===
+===========================================
 
 This **Release of Any and All Liability Disclaimer** (“Disclaimer”) applies to the book **NeuroSimplicity: End the Nightmare** by Charles D. Miller V, who is a layperson. Charles D. Miller V is me. I am not an expert. Please read this Disclaimer carefully. By reading this book, you acknowledge and agree to the terms set forth below.
 
