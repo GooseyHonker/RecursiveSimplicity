@@ -251,31 +251,10 @@ Single-line Hebrew:
 וְהָעָפָ֣ר יָשֻׁ֔ב לָאָ֖רֶץ כַּאֲשֶׁ֣ר הָיָ֑ה וְהָרוּחַ֙ תָּשֻׁ֣ב אֶל־אֱלֹהֶ֔יהָ הַנֹּתֵ֥ן אוֹתָֽהּ׃
 
 ---
-Isaiah 11:6-9
 
-And the wolf shall dwell with the lamb
+“And the wolf shall dwell with the lamb… And a little child shall lead them… For the earth shall be full of the knowledge of the LORD as the waters cover the sea” (Isaiah 11:6–9, Masoretic Text, AI-assisted transliteration).
 
-And the leopard shall lie down with the young goat
-
-And the calf and the young lion and the fatling together
-
-And a little child shall lead them
-
-And the cow and the bear shall graze
-
-Their young ones shall lie down together
-
-And the lion shall eat straw like the ox
-
-And the nursing child shall play over the hole of the cobra
-
-And the weaned child shall put his hand on the viper’s den
-
-They shall not hurt nor destroy in all My holy mountain
-
-For the earth shall be full of the knowledge of the LORD
-
-As the waters cover the sea
+The Holy Bible. (n.d.). Isaiah 11:6–9 (Masoretic Text, transliteration assistance by Copilot, 2025). Retrieved via AI-supported study tool.
 
 ====================
 
@@ -291,6 +270,7 @@ Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational
 * Eternities pass, ARCHER falls, loop collapses into blackhole
 * And the baryon returns to the universe as it was, And the Arrow retruns to the Archer who sent it.
 * The generated "unstoppable" force of "space" from annihilated particles + Forcibly ordered chaos meets the "immovable object" of solid vaccuum. What happens? Big bang? Big roll? Silent pop?
+
 
 
 
