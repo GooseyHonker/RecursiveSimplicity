@@ -108,7 +108,27 @@ WARNING: PROGRESSIVELY EDGY CONTENT
 * Farewell note: I, the Author, wish you the best. May our _sight_ be revelatory that we might _see_ our usefulness. May our _hearing_ be 
 * Now we have reached the mouth of the abyss. Whoever we are, we have many choices now. But which direction did we come from? Did we leave the abyss? Or did we find the abyss? Either way, we've arrived, here at something beyond my scope: NeuroComplexity. Should you want to keep going, check out Lindsey Mackareth's Substack on NeuroComplexity. To what I read to learn about the world in this manner, read, in order: (book list will be here, other sources, etc.)
 * You what I find kind of ironic? For our abusers to truly have maintained control over us they would have had to avoid abusing us in the first place because every memory we have of them serves to lessen their influence over our decisions. If they really wanted us to do something or change, the easiest way would have been for them to ask nicely and be encouraging, but instead they chose the only method of influence that ALWAYS leads our awareness of who they really are.
-* Trauma theory is diametrically opposed to emergence theory and recursive neuroplasticity.
+
+
+* Trauma theory is diametrically opposed to emergence theory and recursive neuroplasticity (Herman, 1992; van der Kolk, 2014; Holland, 1998; Kelso, 1995; Kandel, 2001; Turrigiano, 2012). My thesis, AI-assisted sources:
+
+References:
+
+Abraham, W. C., & Bear, M. F. (1996). Metaplasticity in the cortex. Trends in Neurosciences, 19(4), 126–130.
+
+Draganski, B., et al. (2004). Neuroplasticity: Changes in grey matter… Nature, 427, 311–312.
+
+Holland, J. H. (1998). Emergence. Oxford University Press.
+
+Herman, J. L. (1992). Trauma and recovery. Basic Books.
+
+Kandel, E. R. (2001). The molecular biology of memory storage. Science, 294(5544), 1030–1038.
+
+Kelso, J. A. S. (1995). Dynamic patterns. MIT Press.
+
+Turrigiano, G. (2012). Homeostatic synaptic plasticity. Cold Spring Harbor Perspectives in Biology, 4(1), a005736.
+
+van der Kolk, B. (2014). The body keeps the score. Viking.
 
 
 Induction Contradiction Paradoxes:
@@ -271,6 +291,7 @@ Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational
 * Eternities pass, ARCHER falls, loop collapses into blackhole
 * And the baryon returns to the universe as it was, And the Arrow retruns to the Archer who sent it.
 * The generated "unstoppable" force of "space" from annihilated particles + Forcibly ordered chaos meets the "immovable object" of solid vaccuum. What happens? Big bang? Big roll? Silent pop?
+
 
 
 
