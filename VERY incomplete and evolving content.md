@@ -226,21 +226,16 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 “Memory is resilience's residue. The mind’s abyss mirrors the cosmos.” (NeuroSimplicity hypothesis, 2025)
 
 🧪 Core References
-Hawking, S. W. (1974). Black hole explosions? Nature, 248(5443), 30–31.
 
-Leff, H. S., & Rex, A. F. (1990). Maxwell’s Demon: Entropy, Information, Computing. Princeton University Press.
+1. Hawking, S. W. (1974). Black hole explosions? Nature, 248(5443), 30–31.
+2. Leff, H. S., & Rex, A. F. (1990). Maxwell’s Demon: Entropy, Information, Computing. Princeton University Press.
+3. Abraham, W. C., & Bear, M. F. (1996). Metaplasticity: The plasticity of synaptic plasticity. Trends in Neurosciences, 19(4), 126–130.
+4. Turrigiano, G. G. (2012). Homeostatic synaptic plasticity: Mechanisms for stabilizing neuronal function. Cold Spring Harbor Perspectives in Biology, 4(1), a005736.
+5. Tegmark, M. (2003). Parallel universes. Scientific American, 288(5), 40–51.
+6. Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
+7. Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
+8. NeuroSimplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
 
-Abraham, W. C., & Bear, M. F. (1996). Metaplasticity: The plasticity of synaptic plasticity. Trends in Neurosciences, 19(4), 126–130.
-
-Turrigiano, G. G. (2012). Homeostatic synaptic plasticity: Mechanisms for stabilizing neuronal function. Cold Spring Harbor Perspectives in Biology, 4(1), a005736.
-
-Tegmark, M. (2003). Parallel universes. Scientific American, 288(5), 40–51.
-
-Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
-
-Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
-
-NeuroSimplicity Author's Model (2025). Recursive Preference Stabilization via Induction and Meaning (PSIM(I)) loop hypothesis.
 
 
 
