@@ -109,7 +109,7 @@ WARNING: PROGRESSIVELY EDGY CONTENT
 * Now we have reached the mouth of the abyss. Whoever we are, we have many choices now. But which direction did we come from? Did we leave the abyss? Or did we find the abyss? Either way, we've arrived, here at something beyond my scope: NeuroComplexity. Should you want to keep going, check out Lindsey Mackareth's Substack on NeuroComplexity. To what I read to learn about the world in this manner, read, in order: (book list will be here, other sources, etc.)
 * You what I find kind of ironic? For our abusers to truly have maintained control over us they would have had to avoid abusing us in the first place because every memory we have of them serves to lessen their influence over our decisions. If they really wanted us to do something or change, the easiest way would have been for them to ask nicely and be encouraging, but instead they chose the only method of influence that ALWAYS leads our awareness of who they really are.
 
-
+Editorial assistance: An AI tool was used to improve clarity, place citations, and standardize references. All ideas, arguments, and final wording are the author’s.
 * Trauma theory is diametrically opposed to emergence theory and recursive neuroplasticity (Herman, 1992; van der Kolk, 2014; Holland, 1998; Kelso, 1995; Kandel, 2001; Turrigiano, 2012). Essentially, to remain in trauma is a pause in development rather than a developmental dead end where life is to be an endless nightmare (Herman, 1992; van der Kolk, 2014). Emergent recursive neuroplasticity has always been the way forward, and it's how we've all survived traumatic experiences, adapting to the contradictions to our present aliveness (Holland, 1998; Kelso, 1995; Kandel, 2001; Draganski et al., 2004). Emergent recursive neuroplasticity is inevitable upon induction—that is, once learning signals, context, and thresholds bias the system toward plastic change (Abraham & Bear, 1996; Turrigiano, 2012; Kandel, 2001). It’s the shift from the beginning trauma to the end adaptation, a transition mediated by synaptic, network, and behavioral reorganization (Herman, 1992; van der Kolk, 2014; Kandel, 2001; Draganski et al., 2004). The PSIM(I) loop, along with specific components of the supplement matrix, is proposed here as an accelerant of this naturally recursive process (author’s model), conceptually aligned with metaplastic and homeostatic mechanisms that stabilize and then extend learning (Abraham & Bear, 1996; Turrigiano, 2012). AI-assisted sources:
 
 References
@@ -291,6 +291,7 @@ Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational
 * Eternities pass, ARCHER falls, loop collapses into blackhole
 * And the baryon returns to the universe as it was, And the Arrow retruns to the Archer who sent it.
 * The generated "unstoppable" force of "space" from annihilated particles + Forcibly ordered chaos meets the "immovable object" of solid vaccuum. What happens? Big bang? Big roll? Silent pop?
+
 
 
 
