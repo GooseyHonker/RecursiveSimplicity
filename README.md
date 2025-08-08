@@ -5,6 +5,8 @@
 
 All references to published works are used under fair use for commentary.
 
+This content contains AI-assisted copyediting, organizational scaffolding, and provisional citation support. All core ideas and final phrasing are the author’s. Statements marked [Cite], [Hypothesis], and [Speculative] indicate levels of verification, with citations subject to ongoing review. This repository is currently under reconstruction for ethics and clarity. The model (PSIM(I)) is conceptual and not a clinical protocol.
+
 ⚠️Preliminary Warning⚠️
 ===
 
