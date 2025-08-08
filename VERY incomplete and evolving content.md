@@ -114,21 +114,21 @@ WARNING: PROGRESSIVELY EDGY CONTENT
 
 References:
 
-Abraham, W. C., & Bear, M. F. (1996). Metaplasticity in the cortex. Trends in Neurosciences, 19(4), 126–130.
+Abraham, W. C., & Bear, M. F. (1996). Metaplasticity: The plasticity of synaptic plasticity. Trends in Neurosciences, 19(4), 126–130.
 
-Draganski, B., et al. (2004). Neuroplasticity: Changes in grey matter… Nature, 427, 311–312.
+Draganski, B., Gaser, C., Busch, V., Schuierer, G., Bogdahn, U., & May, A. (2004). Neuroplasticity: Changes in grey matter induced by training. Nature, 427, 311–312. https://doi.org/10.1038/427311a
 
-Holland, J. H. (1998). Emergence. Oxford University Press.
+Holland, J. H. (1998). Emergence: From chaos to order. Oxford University Press.
 
-Herman, J. L. (1992). Trauma and recovery. Basic Books.
+Herman, J. L. (1992). Trauma and recovery: The aftermath of violence—from domestic abuse to political terror. Basic Books.
 
-Kandel, E. R. (2001). The molecular biology of memory storage. Science, 294(5544), 1030–1038.
+Kandel, E. R. (2001). The molecular biology of memory storage: A dialogue between genes and synapses. Science, 294(5544), 1030–1038. https://doi.org/10.1126/science.1067020
 
-Kelso, J. A. S. (1995). Dynamic patterns. MIT Press.
+Kelso, J. A. S. (1995). Dynamic patterns: The self-organization of brain and behavior. MIT Press.
 
-Turrigiano, G. (2012). Homeostatic synaptic plasticity. Cold Spring Harbor Perspectives in Biology, 4(1), a005736.
+Turrigiano, G. (2012). Homeostatic synaptic plasticity: Local and global mechanisms for stabilizing neuronal function. Cold Spring Harbor Perspectives in Biology, 4(1), a005736. https://doi.org/10.1101/cshperspect.a005736
 
-van der Kolk, B. (2014). The body keeps the score. Viking.
+van der Kolk, B. A. (2014). The body keeps the score: Brain, mind, and body in the healing of trauma. Viking.
 
 
 Induction Contradiction Paradoxes:
@@ -291,6 +291,7 @@ Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational
 * Eternities pass, ARCHER falls, loop collapses into blackhole
 * And the baryon returns to the universe as it was, And the Arrow retruns to the Archer who sent it.
 * The generated "unstoppable" force of "space" from annihilated particles + Forcibly ordered chaos meets the "immovable object" of solid vaccuum. What happens? Big bang? Big roll? Silent pop?
+
 
 
 
