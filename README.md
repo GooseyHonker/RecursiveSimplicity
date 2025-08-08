@@ -20,48 +20,46 @@ Proceed with caution and feel free to question or critique every point.
 
 Releases: https://github.com/GooseyHonker/NeuroSimplicity/releases
 
-# =============
 # **Release of Any and All Liability Disclaimer**
-# =============
 
 This **Release of Any and All Liability Disclaimer** (“Disclaimer”) applies to the book **NeuroSimplicity: End the Nightmare** by Charles D. Miller V, who is a layperson. Charles D. Miller V is me. I am not an expert. Please read this Disclaimer carefully. By reading this book, you acknowledge and agree to the terms set forth below.
 
-Purpose
-=
+1. Purpose
+
 This Disclaimer is intended to inform you that all content in **NeuroSimplicity: End the Nightmare** is provided for educational and entertainment purposes only and does not constitute professional advice. The techniques, strategies, and suggestions outlined herein are simplified summaries of complex neuroscience concepts and are not tailored to individual circumstances.
 
-No Professional Advice
-=
+2. No Professional Advice
+
 **NeuroSimplicity: End the Nightmare** is not a substitute for professional medical, psychological, legal, financial, or other expert services.  
 Neither the author nor the publisher is a licensed professional in any of these fields, and no portion of this book establishes an attorney-client, physician-patient, financial advisor-client, or any other professional relationship.  
 Readers should consult qualified professionals before acting on any information or techniques described in this book.
 
-Assumption of Risk
-=
+3. Assumption of Risk
+
 Readers acknowledge that implementing any exercises, behavioral techniques, or lifestyle changes described in this book may involve inherent risks. You understand and agree that you undertake these activities at your own risk, and you assume full responsibility for any outcomes or injuries that may result from their application.
 
-Errors, Omissions, and Inaccuracies
-=
+4. Errors, Omissions, and Inaccuracies
+
 While every effort has been made to ensure the accuracy and completeness of the information contained in **NeuroSimplicity: End the Nightmare**, neither the author nor the publisher makes any representations or warranties, express or implied, regarding its accuracy, reliability, or fitness for a particular purpose.
 
 To the fullest extent permitted by law, the author and publisher disclaim any liability for errors, omissions, or other inconsistencies, whether resulting from negligence, accident, or any other cause.
 
-Exclusion of Liability
-=
+5. Exclusion of Liability
+
 To the maximum extent permitted by law, neither the author nor the publisher shall be liable for any direct, indirect, incidental, special, consequential, or punitive damages—including but not limited to loss of data, profits, or personal injury—arising out of or in connection with your use of this book or reliance on its contents. Your use of this book is strictly at your own risk.
 
-Limited Endorsements and Results
-=
+6. Limited Endorsements and Results
+
 Any testimonials, case studies, or examples contained in this book reflect individual experiences. They are not guarantees of similar results for every reader.  
 Results may vary based on factors such as personal health, lifestyle, genetics, dedication, and other variables beyond the control of the author and publisher.
 
-No Guarantees
-=
+7. No Guarantees
+
 This book makes no guarantees or promises regarding any specific outcomes.  
 Any forward-looking statements are speculative and should not be interpreted as factual predictions. Readers accept that future research, changes in circumstances, or new findings may alter the validity of techniques described herein.
 
-Governing Law
-=
+8. Governing Law
+
 This Disclaimer shall be governed by and construed in accordance with the laws of the State/Country of the State of West Virginia, United States, without regard to its conflict of law provisions.  
 Any disputes arising from or relating to this Disclaimer shall be resolved exclusively in the courts of the State of West Virginia, United States.
 
