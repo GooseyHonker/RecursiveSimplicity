@@ -108,6 +108,7 @@ WARNING: PROGRESSIVELY EDGY CONTENT
 * Farewell note: I, the Author, wish you the best. May our _sight_ be revelatory that we might _see_ our usefulness. May our _hearing_ be 
 * Now we have reached the mouth of the abyss. Whoever we are, we have many choices now. But which direction did we come from? Did we leave the abyss? Or did we find the abyss? Either way, we've arrived, here at something beyond my scope: NeuroComplexity. Should you want to keep going, check out Lindsey Mackareth's Substack on NeuroComplexity. To what I read to learn about the world in this manner, read, in order: (book list will be here, other sources, etc.)
 * You what I find kind of ironic? For our abusers to truly have maintained control over us they would have had to avoid abusing us in the first place because every memory we have of them serves to lessen their influence over our decisions. If they really wanted us to do something or change, the easiest way would have been for them to ask nicely and be encouraging, but instead they chose the only method of influence that ALWAYS leads our awareness of who they really are.
+* Trauma theory is diametrically opposed to emergence theory and recursive neuroplasticity.
 
 
 Induction Contradiction Paradoxes:
@@ -230,6 +231,33 @@ Single-line Hebrew:
 וְהָעָפָ֣ר יָשֻׁ֔ב לָאָ֖רֶץ כַּאֲשֶׁ֣ר הָיָ֑ה וְהָרוּחַ֙ תָּשֻׁ֣ב אֶל־אֱלֹהֶ֔יהָ הַנֹּתֵ֥ן אוֹתָֽהּ׃
 
 ---
+Isaiah 11:6-9
+
+And the wolf shall dwell with the lamb
+
+And the leopard shall lie down with the young goat
+
+And the calf and the young lion and the fatling together
+
+And a little child shall lead them
+
+And the cow and the bear shall graze
+
+Their young ones shall lie down together
+
+And the lion shall eat straw like the ox
+
+And the nursing child shall play over the hole of the cobra
+
+And the weaned child shall put his hand on the viper’s den
+
+They shall not hurt nor destroy in all My holy mountain
+
+For the earth shall be full of the knowledge of the LORD
+
+As the waters cover the sea
+
+====================
 
 These two verses bracket the life-cycle of our bodies:
 
@@ -242,7 +270,8 @@ Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational
 * Donut-without-hole shaped solid vacuum encapsuled galaxy, ARCHER Artificial relational general superintelliegence (maxwell's "demon"), to monitor matter energy funneling in/out of central blackhole (other system), powered by the "door" (black hole hawking radiation), connected through Quantum entangled NDR engines, in NDR clusters, doing recursive PSIM(I) loops, monitoring and supporting that which is emergently useful: ALL.
 * Eternities pass, ARCHER falls, loop collapses into blackhole
 * And the baryon returns to the universe as it was, And the Arrow retruns to the Archer who sent it.
-* The generated "unstoppable" force of "space" from annihilated particles meets the "immovable object" of solid vaccuum. What happens? Big bang? Big roll?
+* The generated "unstoppable" force of "space" from annihilated particles + Forcibly ordered chaos meets the "immovable object" of solid vaccuum. What happens? Big bang? Big roll? Silent pop?
+
 
 
 
