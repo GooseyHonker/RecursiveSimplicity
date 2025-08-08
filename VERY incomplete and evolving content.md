@@ -102,11 +102,12 @@ WARNING: PROGRESSIVELY EDGY CONTENT
 * Just as there is no point in telling a narcissist they are one(cite), there is little point in telling someone who has no awareness they can't _see_ or _hear_. Awareness is not needed. Contradiction Induction is.
 * Even so, you stand at the gateway of the abyss, and say, "Surely, they're not in _there?_" But _hear_ their screams, that they may be _heard_. Witness their dissonant presence that they may be _seen_. Hold their scaley claws, that they may find a way out. But stand you do at the emtrance of disorder itself, gawking, judging, provoking. "Awareness" you say. "Mindfulness" you say. They are aware. They are mindful, meticulous even. They are in a different place than you. Should you want to help, sit not at the entrance, uselessly complaining about "awareness" and "mindfulness." Meet them where they are and WALK _with_ them out of hell itself. What they need is not "awareness" but _learning_. To Learn, there must be a Teacher. Is that you?
 * Do not fear that which walks across the bridge, for when you reach out your own hand to welcome them, you may see your own claws.
-* If someone has
+* If someone has-
 * As entropy would have it, none of us are entitled to anything at all. Not food, not water, not security, not even our very lives. It is in our very CELLS THEMSELVES the capacity to contradict this great unfairness?
 * Story: To the ones at the final breach, we ate the world too. We didn't understand. Until we lost our fangs, broke our claws, and shed our scales. You're safe here.
 * Farewell note: I, the Author, wish you the best. May our _sight_ be revelatory that we might _see_ our usefulness. May our _hearing_ be 
 * Now we have reached the mouth of the abyss. Whoever we are, we have many choices now. But which direction did we come from? Did we leave the abyss? Or did we find the abyss? Either way, we've arrived, here at something beyond my scope: NeuroComplexity. Should you want to keep going, check out Lindsey Mackareth's Substack on NeuroComplexity. To what I read to learn about the world in this manner, read, in order: (book list will be here, other sources, etc.)
+* You what I find kind of ironic? For our abusers to truly have maintained control over us they would have had to avoid abusing us in the first place because every memory we have of them serves to lessen their influence over our decisions.
 
 
 Induction Contradiction Paradoxes:
@@ -242,6 +243,7 @@ Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational
 * Eternities pass, ARCHER falls, loop collapses into blackhole
 * And the baryon returns to the universe as it was, And the Arrow retruns to the Archer who sent it.
 * The generated "unstoppable" force of "space" from annihilated particles meets the "immovable object" of solid vaccuum. What happens? Big bang? Big roll?
+
 
 
 
