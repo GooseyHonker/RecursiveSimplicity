@@ -110,7 +110,7 @@ WARNING: PROGRESSIVELY EDGY CONTENT
 * You what I find kind of ironic? For our abusers to truly have maintained control over us they would have had to avoid abusing us in the first place because every memory we have of them serves to lessen their influence over our decisions. If they really wanted us to do something or change, the easiest way would have been for them to ask nicely and be encouraging, but instead they chose the only method of influence that ALWAYS leads our awareness of who they really are.
 
 
-* Trauma theory is diametrically opposed to emergence theory and recursive neuroplasticity (Herman, 1992; van der Kolk, 2014; Holland, 1998; Kelso, 1995; Kandel, 2001; Turrigiano, 2012). Essentially, it's either trauma OR emergent recursive neuroplasticity. My thesis, AI-assisted sources:
+* Trauma theory is diametrically opposed to emergence theory and recursive neuroplasticity (Herman, 1992; van der Kolk, 2014; Holland, 1998; Kelso, 1995; Kandel, 2001; Turrigiano, 2012). Essentially, to remain in trauma is a pause in development rather than a developmental dead end where life is to be an endless nightmare. Emergent recursive neuroplasticity has always been the way forward, and it's how we've all survived traumatic experiences, adapting to the contradictions to our present aliveness. Emergent recursive neuroplasticity is inevitable upon induction. That is to say, it's the shift from the beginning trauma to the end adaptation. The PSIM(I) loop along with specific components of the supplement matrix hastens this process. My thesis, AI-assisted sources:
 
 References:
 
@@ -291,6 +291,7 @@ Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational
 * Eternities pass, ARCHER falls, loop collapses into blackhole
 * And the baryon returns to the universe as it was, And the Arrow retruns to the Archer who sent it.
 * The generated "unstoppable" force of "space" from annihilated particles + Forcibly ordered chaos meets the "immovable object" of solid vaccuum. What happens? Big bang? Big roll? Silent pop?
+
 
 
 
