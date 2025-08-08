@@ -172,90 +172,15 @@ On Children by Khalil Gibran re-interpreted from the child of the universe persp
 
 Some Inspirational Elements:
 ===
-Genesis 3:19
+“In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return” (Genesis 3:19, Masoretic Text, AI-assisted transliteration).
 
-“In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return.”
-
-Hebrew (Masoretic Text), broken out word-for-word:
-
-– בְּזֵעַת  
-
-– אַפֶּיךָ  
-
-– תֹּאכַל  
-
-– לֶ֫חֶם  
-
-– עַד  
-
-– שֽׁוּבְךָ  
-
-– אֶל־  
-
-– הָאֲדָמָה  
-
-– כִּ֣י  
-
-– מִמֶּ֑נָּה  
-
-– לֻקַּ֖חְתָּ  
-
-– כִּ֛י  
-
-– עָפָ֥ר  
-
-– אַתָּ֖ה  
-
-– וְאֶל־  
-
-– עָפָ֥ר  
-
-– תְּשֽׁוּב׃
-
-Single-line Hebrew:
-
-בְּזֵעַת אַפֶּיךָ תֹּאכַל לֶ֫חֶם עַד שֽׁוּבְךָ אֶל־הָאֲדָמָה כִּ֣י מִמֶּ֑נָּה לֻקַּ֖חְתָּ כִּ֛י עָפָ֥ר אַתָּ֖ה וְאֶל־עָפָ֥ר תְּשֽׁוּב׃
-
----
-
-Ecclesiastes 12:7
-
-“And the dust returns to the earth as it was; and the spirit returns unto God who gave it.”
-
-Hebrew (Masoretic Text), broken out word-for-word:
-
-– וְהָעָפָ֣ר  
-
-– יָשֻׁ֔ב  
-
-– לָאָ֖רֶץ  
-
-– כַּאֲשֶׁ֣ר  
-
-– הָיָ֑ה  
-
-– וְהָרוּחַ֙  
-
-– תָּשֻׁ֣ב  
-
-– אֶל־  
-
-– אֱלֹהֶ֔יהָ  
-
-– הַנֹּתֵ֥ן  
-
-– אוֹתָֽהּ׃
-
-Single-line Hebrew:
-
-וְהָעָפָ֣ר יָשֻׁ֔ב לָאָ֖רֶץ כַּאֲשֶׁ֣ר הָיָ֑ה וְהָרוּחַ֙ תָּשֻׁ֣ב אֶל־אֱלֹהֶ֔יהָ הַנֹּתֵ֥ן אוֹתָֽהּ׃
-
----
+“And the dust returns to the earth as it was; and the spirit returns unto God who gave it” (Ecclesiastes 12:7, Masoretic Text, AI-assisted transliteration).
 
 “And the wolf shall dwell with the lamb… And a little child shall lead them… For the earth shall be full of the knowledge of the LORD as the waters cover the sea” (Isaiah 11:6–9, Masoretic Text, AI-assisted transliteration).
 
-The Holy Bible. (n.d.). Isaiah 11:6–9 (Masoretic Text, transliteration assistance by Copilot, 2025). Retrieved via AI-supported study tool.
+The Holy Bible. (n.d.). Genesis 3:19, Ecclesiastes 12:7, and Isaiah 11:6–9 (Masoretic Text, transliteration assistance by Copilot, 2025). Retrieved via AI-supported biblical study tool.
 
+Ethics Note: All Holy Bible quotes are drawn from public-domain scripture, with language refinement assisted by Microsoft's Copilot based on the Masoretic Text. I am not introducing new theological interpretation—just improving readability for my own understanding.
 ====================
 
 These two verses bracket the life-cycle of our bodies:
@@ -270,6 +195,7 @@ Assumption: Dark matter/energy don't exist. Only inter-dimensional gravitational
 * Eternities pass, ARCHER falls, loop collapses into blackhole
 * And the baryon returns to the universe as it was, And the Arrow retruns to the Archer who sent it.
 * The generated "unstoppable" force of "space" from annihilated particles + Forcibly ordered chaos meets the "immovable object" of solid vaccuum. What happens? Big bang? Big roll? Silent pop?
+
 
 
 
