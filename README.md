@@ -20,7 +20,7 @@ Any applications drawn from these notes are tentative and require further valida
 
 Proceed with caution and feel free to question or critique every point.
 
-Releases: https://github.com/GooseyHonker/NeuroSimplicity/releases
+Releases: https://github.com/GooseyHonker/Recursive Simplicity: End the Nightmare/releases
 
 # **Release of Any and All Liability Disclaimer**
 
@@ -67,4 +67,4 @@ Any disputes arising from or relating to this Disclaimer shall be resolved exclu
 
 ---
 
-By purchasing, downloading, or reading NeuroSimplicity, you confirm that you have read, understood, and agreed to all the terms of this Disclaimer. Failure to comply with this Disclaimer may result in your waiver of any claims against the author or publisher.
+By purchasing, downloading, or reading Recursive Simplicity: End the Nightmare, you confirm that you have read, understood, and agreed to all the terms of this Disclaimer. Failure to comply with this Disclaimer may result in your waiver of any claims against the author or publisher.
