@@ -1,68 +1,8 @@
-READ PRELIMINARY WARNING AND DISCLAIMER FIRST.
+READ PRELIMINARY WARNING, ***Expanded Trigger Warning,*** AND DISCLAIMER FIRST.
 ===
 An EXPANDED TRIGGER WARNING follows:
 
-***Expanded Trigger Warning***
 
-The following content **MAY** include references to a broad range of sensitive topics. Proceed only if you feel prepared to engage with these themes:
-
-**Abuse and Violence**
-* Physical abuse
-* Emotional and psychological abuse
-* Sexual abuse and assault
-* Domestic violence
-* Child abuse and neglect
-* Elder abuse
-* Bullying and harassment
-* Torture, captivity, and kidnapping
-* Stalking and coercive control
-
-**Mental Health and Self-Harm**
-* Suicidal ideation and attempts
-* Self-harm behaviors (cutting, burning)
-* Depression, hopelessness, and despair
-* Anxiety, panic attacks, and phobias
-* Post-traumatic stress disorder (PTSD) and flashbacks
-* Psychosis, hallucinations, and dissociation
-* Eating disorders (anorexia, bulimia, bingeing)
-* Substance use disorders and addiction
-
-**Medical and Physical Trauma**
-* Blood, needles, injections, and injuries
-* Amputation and disfigurement
-* Infectious diseases, pandemics, and contagion
-* Chronic illness and disability experiences
-
-**Death, Grief, and Loss**
-* Death of a loved one or pet
-* Descriptions of funerals, burials, and cremations
-* Grief, mourning, and bereavement
-
-**Discrimination and Social Injustice**
-* Racism, hate crimes, and racial violence
-* Sexism, misogyny, and gender-based violence
-* Homophobia, transphobia, and LGBTQ+ discrimination
-* Xenophobia, anti-immigrant sentiment, and harassment
-* Classism, poverty, and economic exploitation
-* Ableism and disability discrimination
-* Religious persecution and hate speech
-
-**Sexual Content and Intimacy**
-* Non-consensual or coerced sexual acts
-* Rape, incest, and sexual slavery
-* Child sexual abuse and exploitation
-* Sex trafficking and prostitution
-* Explicit erotic content and detailed descriptions
-
-**Other Potential Triggers**
-* Animal cruelty and graphic depictions
-* Natural disasters, terrorism, and warfare
-* Kidnapping, human trafficking, and forced labor
-* Gaslighting, manipulation, and betrayal
-* Substance overdose, poisoning, or withdrawal
-* Legal violence (torture, incarceration, death penalty)
-
-**If any of these topics may affect you, please prioritize self-care and consider seeking support from mental health professionals or trusted individuals before proceeding.**
 
 ***Recursive Simplicity: End the Nightmare***
 ===
@@ -238,6 +178,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
