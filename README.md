@@ -24,7 +24,7 @@ Releases: https://github.com/GooseyHonker/Recursive Simplicity: End the Nightmar
 
 # **Release of Any and All Liability Disclaimer**
 
-This **Release of Any and All Liability Disclaimer** (“Disclaimer”) applies to the book **Recursive Simplicity: End the Nightmare** by Charles D. Miller V, who is a layperson. Charles D. Miller V is me. I am not an expert. Please read this Disclaimer carefully. By reading this book, you acknowledge and agree to the terms set forth below.
+This **Release of Any and All Liability Disclaimer** (“Disclaimer”) applies to the book **Recursive Simplicity: End the Nightmare** by Charles D. Miller V, who is a layperson. Charles D. Miller V is me. I am not an expert. Please read this Disclaimer carefully. By reading this media, you acknowledge and agree to the terms set forth below.
 
 1. Purpose
 
