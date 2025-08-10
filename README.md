@@ -1,5 +1,5 @@
 # Recursive Simplicity: End the Nightmare
-- What to Do With Our Flooded Minds in a Culture of PTSD, Narcissism and Gaslighting
+- A Complex PTSD Survivor's Bottom-Up Guide to handling Narcissism and Gaslighting
 
 🚧WIP – Citation Mapping in Progress🚧
 
