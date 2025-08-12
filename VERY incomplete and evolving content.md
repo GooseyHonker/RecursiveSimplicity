@@ -7,6 +7,7 @@ An EXPANDED TRIGGER WARNING follows:
 ***Recursive Simplicity: End the Nightmare***
 ===
 ***We/I&You*** <- not a communism reference, that system doesn't work
+We are the dissonance inductors, not the dissonance sowers.
 
 ***\*SEE "MIRRORING" in The Drama of the Gifted Child\****
 
@@ -185,6 +186,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
