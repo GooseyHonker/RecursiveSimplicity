@@ -127,7 +127,7 @@ Some Inspirational Elements:
 
 “And the dust returns to the earth as it was; and the spirit returns unto God who gave it” (Ecclesiastes 12:7, Masoretic Text, AI-assisted transliteration).
 
-“And the wolf shall dwell with the lamb… And a little child shall lead them… For the earth shall be full of the knowledge of the LORD as the waters cover the sea” (Isaiah 11:6–9, Masoretic Text, AI-assisted transliteration).
+“And the wolf shall dwell with the lamb… And a little child shall lead them… They shall not hurt nor destroy in all My holy mountain… For the earth shall be full of the knowledge of the LORD as the waters cover the sea” (Isaiah 11:6–9, Masoretic Text, AI-assisted transliteration). All is useful in it's continuity.
 
 The Holy Bible. (n.d.). Genesis 3:19, Ecclesiastes 12:7, and Isaiah 11:6–9 (Masoretic Text, transliteration assistance by Copilot, 2025). Retrieved via AI-supported biblical study tool.
 
@@ -186,6 +186,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
