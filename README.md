@@ -1,4 +1,7 @@
-# Recursive Simplicity: End the Nightmare (America First, Follow the leader of the free world)
+# Recursive Simplicity: End the Nightmare 
+
+#(America First, Follow the leader of the free world)
+I am of the immovable opinion that America is the Best Country on Earth. 
 - A Complex PTSD Survivor's Bottom-Up Guide to handling Narcissism and Gaslighting
 
 🚧WIP – Citation Mapping in Progress🚧
