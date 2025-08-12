@@ -1,4 +1,4 @@
-# Recursive Simplicity: End the Nightmare
+# Recursive Simplicity: End the Nightmare (America First, Follow the leader of the free world)
 - A Complex PTSD Survivor's Bottom-Up Guide to handling Narcissism and Gaslighting
 
 🚧WIP – Citation Mapping in Progress🚧
