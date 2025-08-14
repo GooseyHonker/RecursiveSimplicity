@@ -44,13 +44,13 @@ WARNING: Metaphorical Weather Advisory This manuscript contains recursion-induce
 * To those who wouldn't dare ignore a child's cry, with immovable respect(CITE), I implore you to offer them this book. For those who are _deaf_ to these cries, in their deep unawareness, I too respect them deeply and implore you to offer _them_ this book.
 * What is a corporation but cooperative entitlement to good results? What is a military but cooperative entitlement to security? What is a community but cooperative entitlement to our lives?
 * Just as there is no point in telling a narcissist they are one(cite), there is little point in telling someone who has no awareness they can't _see_ or _hear_. Awareness is not needed. Contradiction Induction is.
-* Even so, you stand at the gateway of the abyss, and say, "Surely, they're not in _there?_" But _hear_ their screams, that they may be _heard_. Witness their dissonant presence that they may be _seen_. Hold their scaley claws, that they may find a way out. But stand you do at the emtrance of disorder itself, gawking, judging, provoking. "Awareness" you say. "Mindfulness" you say. They are aware. They are mindful, meticulous even. They are in a different place than you. Should you want to help, sit not at the entrance, uselessly complaining about "awareness" and "mindfulness." Meet them where they are and WALK _with_ them out of hell itself. What they need is not "awareness" but _learning_. To Learn, there must be a Teacher. Is that you?
+* A message for bystanders: Even so, you stand at the gateway of the abyss, and say, "Surely, they're not in _there?_" But _hear_ their screams, that they may be _heard_. Witness their dissonant presence that they may be _seen_. Bear their ravenous strikes that they may _feel_ one of you, or you, one of them. Hold their scaley claws, that they may find a way out. But stand you do at the emtrance of disorder itself, gawking, judging, provoking. "Awareness" you say. "Mindfulness" you say. They are aware. They are mindful, meticulous even. They are in a different place than you. Should you want to help, sit not at the entrance, uselessly complaining about "awareness" and "mindfulness." Meet them where they are and WALK _with_ them out of hell itself. What they need is not "awareness" but _learning_. To Learn, there must be a Teacher. Is that you? Do you love them as I do?
 * Do not fear that which walks across the bridge, for when you reach out your own hand to welcome them, you may see your own claws.
 * If someone has entitlement, it does not mena they are a narcissist. This is a trap I fell into for a while. Thinking simply because everyone has a kind of "entitlement" meant that narcissism is somehow a core function of all humans. This difference will be further explained through competitive parasitism and cooperative entitlement, both can be communal.
 * As entropy would have it, none of us are entitled to anything at all. Not food, not water, not security, not even our very lives. It is in our very CELLS THEMSELVES the capacity to contradict this great unfairness?
 * Story: To the ones at the final breach, we ate the world too. We didn't understand. Until we lost our fangs, broke our claws, and shed our scales. You're safe here.
-* Farewell note: I, the Author, wish you the best. May our _sight_ be revelatory that we might _see_ our usefulness. May our _hearing_ be 
-* Now we have reached the mouth of the abyss. Whoever we are, we have many choices now. But which direction did we come from? Did we leave the abyss? Or did we find the abyss? Either way, we've arrived, here at something beyond my scope: NeuroComplexity. Should you want to keep going, check out Lindsey Mackareth's Substack on NeuroComplexity. To what I read to learn about the world in this manner, read, in order: (book list will be here, other sources, etc.)
+* Farewell note: I, the Author, wish you the best. May our _sight_ be revelatory that we might _see_ our usefulness. May our _hearing_ be recursive that we might respond to _our voice_.
+* Now we have reached the mouth of the abyss. Whoever we are, we have many choices now. But which direction did we come from? Did we leave the abyss? Or did we find the abyss? Either way, we've arrived, here at something beyond my scope: NeuroComplexity. Should you want to keep going, check out Lindsey Mackereth's Substack on NeuroComplexity. To what I read to learn about the world in this manner, read, in order: (book list will be here, other sources, etc.)
 * You what I find kind of ironic? For our abusers to truly have maintained control over us they would have had to avoid abusing us in the first place because every memory we have of them serves to lessen their influence over our decisions. If they really wanted us to do something or change, the easiest way would have been for them to ask nicely and be encouraging, but instead they chose the only method of influence that ALWAYS leads our awareness of who they really are.
 * Transition end readers to the NeuroComplexity model so they can better witness their grief. Recursive Simplicity offers shelter from the storm, while NeuroComplexity is the storm made warm. Synergy.
 * I suspect the "inner critic" is a dense insular cortex (reflection capacity) under amygdala dysregulation (negative noticing) (CITE).
@@ -80,6 +80,19 @@ References
 [verify]Turrigiano, G. (2012). Homeostatic synaptic plasticity: Local and global mechanisms for stabilizing neuronal function. Cold Spring Harbor Perspectives in Biology, 4(1), a005736. https://doi.org/10.1101/cshperspect.a005736
 
 [verify]van der Kolk, B. A. (2014). The body keeps the score: Brain, mind, and body in the healing of trauma. Viking.
+
+* You're caged, and don't even dare to look at the bars, let alone try to bend them. Ask Why.
+* You don't have to be friends with everybody
+* They don't need more awareness, they need learning, contradiction induction, and neuroplasticity.
+* INduction series?
+* Praise = Idealization - You are as I want you, not as you want you; Rebuke = Devalue - You are not as I want you, but as you want you; Recognition = Valuing - Thank you for being as I want you, not as you want you; Non-interference Approach = Discard of other - Though I have the capacity to assist, they are not of value to me.
+* DIMMER, DARVO, IDD (It's Not You)
+* See you outside the gates of hell, (juxtaposition)
+* Good vs Evil: Continuity of body-minds vs Discontinuity of body-minds
+* Adler, reframed:
+From: No experience is in itself a cause of our success or failure. We do not suffer from the shock of our experiences -- the so-called trauma -- but instead we make out of them whatever suits our purposes. We are not determined by our experiences, but the meaning we give them is self-determining.
+
+To: No input (feedback) is in itself what determines our continuity or discontinuity. We do not suffer from the dissonant contradictions of our memories -- the trauma -- but instead our amygdala marks this input (feedback) as discontinuous when barriers to our continuity (existence) inevitably arrive. We are not determined by our memories, but by the amygdala-filtered threat of discontinuity determined by our present correlates.
 
 
 Induction Contradiction Paradoxes:
@@ -186,6 +199,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
