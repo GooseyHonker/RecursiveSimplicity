@@ -111,7 +111,7 @@ Induction Contradiction Paradoxes:
 * If the goal of Indifference is Indifference itself, we seek to know Love.
 * If the goal of Death is Death itself, we seek to know Life.
 
-**_Beware, those who seek power over people will sit on a throne in the void, and perish alone, forgotten to all, remembered by none._**
+**_Beware: those who seek power over people will sit on a throne in the void, and perish alone, forgotten to all, remembered by none._**
 
 On Children by Khalil Gibran re-interpreted from the child of the universe perspective
 ===
@@ -208,6 +208,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
