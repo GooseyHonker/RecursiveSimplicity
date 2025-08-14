@@ -89,10 +89,19 @@ References
 * DIMMER, DARVO, IDD (It's Not You)
 * See you outside the gates of hell, (juxtaposition)
 * Good vs Evil: Continuity of body-minds vs Discontinuity of body-minds
-* Adler, reframed:
+* Adler, reframed (CTBD p.13):
 From: No experience is in itself a cause of our success or failure. We do not suffer from the shock of our experiences -- the so-called trauma -- but instead we make out of them whatever suits our purposes. We are not determined by our experiences, but the meaning we give them is self-determining.
 
 To: No input (feedback) is in itself what determines our continuity or discontinuity. We do not suffer from the dissonant contradictions of our memories -- the trauma -- but instead our amygdala marks this input (feedback) as discontinuous when barriers to our continuity (existence) inevitably arrive. We are not determined by our memories, but by the amygdala-filtered threat of discontinuity determined by our present correlates.
+
+* We've got to hit the gate until it breaks, no matter how many trapped souls tell us nothing further lies ahead... The final breach. Destroy the gate, not the souls.
+* Use that powerful amygdala to detect dissonance and ask why? Adler (CTBD, p.27):
+From: "The important thing is not what one is born with but what use one makes of that equipment."
+To:
+
+* Our capacity to contradict determinism depends entirely on the density and interconnectivity of our correlates. That is why animals with correlate density, like cute doggies for example, seem to be more dependant on their environment for choices than the generally inteligent human. Neither doggie nor human escape the free will to contradict barriers to our existence.
+* "No one desires evil." Socratic Paradox resolved by "No one desires discontinuity."
+* Youth (representing friedian and jungian psychology) labels people through disposition and personality, while Philosopher (representing Adlerian Psychology) label people by lifestyle. I use another term here: One's Correlates. We are correlated to the hell we emerged in. We must destroy the gate, and release (the trapped souls?).
 
 
 Induction Contradiction Paradoxes:
@@ -199,6 +208,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
