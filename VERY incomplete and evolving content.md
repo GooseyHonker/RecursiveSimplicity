@@ -96,6 +96,7 @@ To:
 * Our capacity to contradict determinism depends entirely on the density and interconnectivity of our correlates. That is why animals with correlate density, like cute doggies for example, seem to be more dependant on their environment for choices than the generally inteligent human. Neither doggie nor human escape the free will to contradict barriers to our existence.
 * "No one desires evil." Socratic Paradox resolved by "No one desires discontinuity."
 * Youth (representing friedian and jungian psychology) labels people through disposition and personality, while Philosopher (representing Adlerian Psychology) label people by lifestyle. I use another term here: One's Correlates. We are correlated to the hell we emerged in. We must destroy the gate, and release (the trapped souls?).
+* Iterators Never Fail - Unstoppable Brain
 
 
 Induction Contradiction Paradoxes:
@@ -202,6 +203,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
