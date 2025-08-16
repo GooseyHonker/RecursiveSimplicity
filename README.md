@@ -45,7 +45,7 @@ Any applications drawn from this repository are tentative and require further va
 
 Proceed with caution and feel free to question or critique every point.
 
-Releases: https://github.com/GooseyHonker/Recursive Simplicity: End the Nightmare/releases
+Releases: https://github.com/GooseyHonker/RecursiveSimplicity
 
 # **Release of Any and All Liability Disclaimer**
 
