@@ -56,7 +56,7 @@ WARNING: Metaphorical Weather Advisory This manuscript contains recursion-induce
 * Transition end readers to the NeuroComplexity model so they can better witness their grief. Recursive Simplicity offers shelter from the storm, while NeuroComplexity is the storm made warm. Synergy.
 * I suspect the "inner critic" is a dense insular cortex (reflection capacity) under amygdala dysregulation (negative noticing) (CITE).
 * Editorial assistance: An AI tool was used to improve clarity, place citations, and standardize references. All ideas, arguments, and final wording are the author’s. An AI tool assisted with copyediting and provisional citation placement. All ideas, arguments, and final wording are the author’s. Citations marked [verify] are pending the author’s review.
-* America is Deep-throating the barrel of a gun and they don't even know it
+* (America is diving into discontinuity, blindfolded, thinking salvation lies ahead. Nah, I'll provide the prediction of what really lies ahead. America is free to do what it will tho.
 * Emergence and neuroplasticity frameworks emphasize that learning-driven reorganization can follow adversity, via changes at synapses, networks, and behavior. Foundational work on metaplasticity and homeostatic plasticity shows how systems adjust plasticity thresholds and stabilize function, helping explain shifts from dysregulation to adaptation (Abraham & Bear, 1996; Turrigiano, 2012; Kandel, 2001) [verify]. Human studies demonstrate experience-dependent structural change, consistent with adaptive remodeling after training and practice (Draganski et al., 2004) [verify]. Clinical trauma scholarship details how traumatic stress can constrain development and meaning-making, yet also describes staged recovery processes that leverage learning and relationship to restore function (Herman, 1992; van der Kolk, 2014) [verify]. My model (PSIM(I)) proposes a structured way to induce and stabilize adaptive cycles—conceptually aligned with metaplastic and homeostatic principles—while explicitly remaining a hypothesis requiring empirical testing (author’s model). AI-assisted sources:
 
 References
@@ -206,6 +206,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
