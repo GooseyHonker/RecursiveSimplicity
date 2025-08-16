@@ -93,6 +93,12 @@ To: No input (feedback) is in itself what determines our continuity or discontin
 * Use that powerful amygdala to detect dissonance and ask why? Adler (CTBD, p.27):
 From: "The important thing is not what one is born with but what use one makes of that equipment."
 To:
+1.	We have both causes and goals.
+2.	Etiology and Teleology work together.
+3.	The Goal-Cause: Continue is the “why.”
+4.	We were never defective or broken.
+5.	Free will is limited by what **choices** we can **find** to **use**.
+
 
 * Our capacity to contradict determinism depends entirely on the density and interconnectivity of our correlates. That is why animals with correlate density, like cute doggies for example, seem to be more dependant on their environment for choices than the generally inteligent human. Neither doggie nor human escape the free will to contradict barriers to our existence.
 * "No one desires evil." Socratic Paradox resolved by "No one desires discontinuity."
@@ -359,6 +365,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
