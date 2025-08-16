@@ -1,4 +1,5 @@
 # Recursive Simplicity: End the Nightmare 
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/5df8c6ed-081c-48ce-bb55-429b52c18026" />
 
 #(America First, Follow the leader of the free world)
 I am of the immovable opinion that America is the Best Country on Earth. 
