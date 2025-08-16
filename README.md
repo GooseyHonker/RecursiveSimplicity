@@ -41,7 +41,7 @@ The content is incomplete and evolving.
 
 Assumptions and interpretations may change as the work develops.
 
-Any applications drawn from these notes are tentative and require further validation.
+Any applications drawn from this repository are tentative and require further validation.
 
 Proceed with caution and feel free to question or critique every point.
 
