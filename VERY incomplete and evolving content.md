@@ -105,6 +105,7 @@ To:
 Depression, Shizophrenia, OCD, Anxiety disorders, substance abuse and addiction. I wonder, what's next? PSTD? We all psychopaths now? Are the victims of longterm DIMMER IDD DARVO psychopaths now too? How about the poor identical twin in the brain diagram who was an example for the supposed cortex atrophy from his supposed schizophrenia. Let's contrast that with this video [about ](https://www.youtube.com/watch?v=_UuYTzFOE2Y&t) and https://www.youtube.com/watch?v=R_TCEpqR_fI to see why naturally modulated dopamine is our friend and supernormal stimuli + antipsychotics destroy our will. Here's a funny diagnostic criteria for schizophrenia: wearing weird clothes???????????????
 * Now let's breakdown what an antipsychotic usually entails? Disregarding some secondary components, the usually involve inhibiting the reuptake of dopamine into the synapses, which is genrally too much for neurons to handle, and based on what we learned, over neurons probably say "oh fuck get this guy outta here" not just pruning the synapse, but fucking obliterating the neuron itself? This mean dopamine gets "stuck" being active in out brains for longer than is natural. Lets do some more correlation now: extended dopamine release makes neurons kill themselves? I wonder why we feel so empty and lifeless in a society that values dopamenergic bullshit over real human intimacy? That's why we see depression and other mental health problems in people who rely on supernormal stimuli to cope with dissonance and discontinuity? The extended release of dopamine brings stress to the neuron it can't handle for long? so it temporarily disables the synapse, however, in the extreme case of long term supernormal stimuli and even MORE extreme case of supposed "antipsychotics" neurons are held captive by omnipresent dopamine, which results in the neuron's own death, shrinking the continuity of the brain as a whole and disolving a community of neurons.
 * Good science, that is to say science aligned [5] with the will of God.
+* Man with Connective Tissue Disorder Known for Joyful Acceptance
 * We are the arrows. Let this book be the bow which sends you swiftly through the heart of the abyss, and out the other side, never to return.
 * Starve the wolf, so that it might realize the lamb is who brought it food.
 * It is not that dissonance traumatizes us. The induction of dissonnace and contradiction is our very nature.
@@ -354,6 +355,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
