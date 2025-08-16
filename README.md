@@ -8,7 +8,29 @@ I am of the immovable opinion that America is the Best Country on Earth.
 
 All references to published works are used under fair use for commentary.
 
-This content contains AI-assisted copyediting, organizational scaffolding, and provisional citation support. All core ideas and final phrasing are the author’s. Statements marked [Cite], [Hypothesis], and [Speculative] indicate levels of verification, with citations subject to ongoing review. This repository is currently under reconstruction for ethics and clarity. The model (PSIM(I)) is conceptual and not a clinical protocol.
+# ✍️ Authorship & AI Collaboration Disclosure
+
+Author: Charles D. Miller V
+
+I am the sole author and originator of the ideas, narrative structure, and creative expression in Recursive Simplicity: End the Nightmare. All synthesis, metaphor frameworks, and conceptual models are the result of my direct engagement with cited sources, my lived experience as a Complex PTSD survivor, and my own analysis.
+
+In developing this work, I:
+
+Personally read and reviewed all primary and secondary sources listed in the References.
+
+Formulated original interpretations and integrated concepts into my own language and structure.
+
+Designed thematic and metaphorical frameworks to convey complex ideas with clarity and accessibility.
+
+I received editorial and technical assistance limited to:
+
+Formatting citations in APA style and ensuring consistent referencing.
+
+Identifying opportunities to increase neurodiverse accessibility and trauma‑informed pacing.
+
+Providing mechanical feedback on structure, clarity, and consistency.
+
+No third‑party contributor or AI system determined the substance, sequence, or argumentation of this book. All such elements are my original intellectual work. Any assistance functioned in an advisory or editorial capacity, comparable to that of a proofreader or accessibility consultant. This repository is currently under reconstruction for ethics and clarity. The model (PSIM(I)) is conceptual and not a clinical protocol. Copilot AI helped me replace the discrete sum of parts cognitive bias to the utility score formula in the PSIM(I) engine. 
 
 ⚠️Preliminary Warning⚠️
 ===
