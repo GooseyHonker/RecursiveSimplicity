@@ -30,7 +30,7 @@ Identifying opportunities to increase neurodiverse accessibility and trauma‑in
 
 Providing mechanical feedback on structure, clarity, and consistency.
 
-No third‑party contributor or AI system determined the substance, sequence, or argumentation of this book. All such elements are my original intellectual work. Any assistance functioned in an advisory or editorial capacity, comparable to that of a proofreader or accessibility consultant. This repository is currently under reconstruction for ethics and clarity. The model (PSIM(I)) is conceptual and not a clinical protocol. Copilot AI helped me replace the discrete sum of parts cognitive bias to the utility score formula in the PSIM(I) engine. 
+No third‑party contributor or AI system determined the substance, sequence, or argumentation of this book. All such elements are my original intellectual work. Any assistance functioned in an advisory or editorial capacity, comparable to that of a proofreader or accessibility consultant. This repository is currently under reconstruction for ethics and clarity. The model (PSIM(I)) is conceptual and not a clinical protocol. Copilot AI helped me replace the discrete sum of parts cognitive bias to the utility score formula in the PSIM(I) engine. The rest was hybridized from blood, sweat, and contradiction induction. 
 
 ⚠️Preliminary Warning⚠️
 ===
