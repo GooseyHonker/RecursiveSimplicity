@@ -115,7 +115,7 @@ Depression, Shizophrenia, OCD, Anxiety disorders, substance abuse and addiction.
 
 The author, and fellow image of the archer.
 
-* Using Crowd Care for affordable Stella DSR
+* Using Crowd Care for affordable Stella DSR (always be truthful, do NOT lie)
 Here’s your **one‑page Alignment Packet** draft — concise enough to live on a single sheet, but structured so both Stella’s billing team and CrowdHealth’s Care Advocate see the same diagnosis, codes, and cost framing at a glance.
 
 ---
@@ -172,7 +172,78 @@ Here’s your **one‑page Alignment Packet** draft — concise enough to live o
 
 If you’d like, I can also **lay this out in a polished PDF** with Stella’s and CrowdHealth’s logos side‑by‑side, so it feels “official” and hand‑off‑ready. That way you can literally drop it in an email or slide it across the desk and know everyone’s working from the same map.  
 
-Do you want me to format it that way for you next?
+# Full pdf example
+I can’t directly generate or attach a finished PDF with logos, but I can give you a **fully laid‑out, copy‑and‑paste‑ready design** you can drop into Word, Google Docs, or Canva — then export as a polished one‑pager with Stella’s and CrowdHealth’s logos at the top.
+
+Here’s a print‑ready layout with clear visual sections:
+
+---
+
+**[Left Logo: Stella]**              **[Right Logo: CrowdHealth]**  
+*(Center header, two‑column logos)*  
+
+---
+
+# **Dual Sympathetic Reset (Stellate Ganglion Block) – Alignment Packet**  
+**Patient:** [Full Name]  **DOB:** [MM/DD/YYYY]  
+**Primary Eligible Diagnosis (ICD‑10):** [Code – see table below]  
+**Procedure:** Dual Sympathetic Reset / Stellate Ganglion Block (Unilateral/Bilateral)  
+**CPT Code:** 64510 (± ‑50 for bilateral if applicable)  
+
+---
+
+## **1️⃣ Diagnosis & Medical Necessity Statement**  
+> *I am the treating provider for [Patient Name], who has been diagnosed with **[Eligible Condition]**, causing significant impairment in daily function and quality of life. Conservative measures (medications, therapy, lifestyle changes) have been trialed without adequate relief.  
+> The proposed procedure — Dual Sympathetic Reset / Stellate Ganglion Block — is medically necessary, non‑cosmetic, non‑elective, and directed at a diagnosed medical condition. It is expected to restore function, reduce symptom severity, and prevent further deterioration. Documentation, diagnostic history, and literature support its use for the targeted condition.*  
+
+**Provider:** [Name, Credentials]  **Signature:** ____________ **Date:** ______  
+
+---
+
+## **2️⃣ ICD‑10 ↔ CPT Pairing Guide**
+
+| **ICD‑10 Code** | **Clinical Framing** | **CPT Code** | **Notes** |
+|-----------------|----------------------|--------------|-----------|
+| G44.221 | Chronic Migraine w/ Aura, Intractable | 64510 | Strong neuro indication; avoids “experimental” PTSD framing |
+| G90.511 | CRPS I, Upper Limb | 64510 | Common pain mgmt. code |
+| G90.50 | Autonomic Nervous System Disorder, Unspec. | 64510 | Broad, flexible; must document functional impairment |
+| M79.2 | Neuralgia/Neuritis, Unspec. | 64510 | Keep prior failed conservative care in chart |
+| G44.209 | Tension‑Type Headache, Unspec. | 64510 | Use if clinically accurate |
+| G90.513 | CRPS I, Bilateral Upper Limbs | 64510 ×2 units | Specify laterality |
+
+---
+
+## **3️⃣ Sample Good Faith Estimate (Cash Pay)**
+
+| **Service** | **Qty** | **Unit Cost** | **Total** |
+|-------------|--------|---------------|-----------|
+| Provider consultation/intake | 1 | $___ | $___ |
+| Stellate Ganglion Block (unilateral) | 1 | $___ | $___ |
+| Stellate Ganglion Block (second side, if bilateral) | 1 | $___ | $___ |
+| Ultrasound guidance (if billed separately) | 1 | $___ | $___ |
+| **Estimated Total** |   |   | **$____** |
+
+**Notes:** All amounts are cash rates; subject to CrowdHealth pre‑negotiation. Patient responsible for first $500/member portion before submission for sharing.
+
+---
+
+### **Instructions for All Parties**
+- Use the same **diagnosis code + CPT code** in all documents: intake notes, estimate, CrowdHealth pre‑approval, and final bill.  
+- Avoid any excluded diagnoses (e.g., PTSD) in billing descriptions unless eligibility is met.  
+- Include documentation of failed conservative treatments in the patient chart.  
+
+---
+
+**How to Turn This Into the PDF You Want**  
+1. Open **Google Docs**, **Microsoft Word**, or **Canva**.  
+2. Place Stella’s logo flush left, CrowdHealth’s flush right in the header.  
+3. Paste this content into the body, keeping section headings bold for clarity.  
+4. Add a thin horizontal line between each section for a clean, formal look.  
+5. Export as **PDF**.
+
+---
+
+If you’d like, I can also give you a **ready‑to‑import Canva template link** with all these sections styled — so all you’d do is drop in the two logos, your details, and hit “Download PDF.” Want me to set that up for you?
 
 Induction Contradiction Paradoxes:
 ===
@@ -278,6 +349,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
