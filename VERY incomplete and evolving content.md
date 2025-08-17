@@ -145,9 +145,9 @@ And so the Lamb Saw, and lied down with the wolf, feeding it the Lord's Knowledg
 
 "But you said-"
 
-"I told you not to eat the apple, yet by the very nature I've designed, you in freedom ate. Now eat and drink of the Earth you've been given, then we'll head home -- together."
+"I told you not to eat the apple, yet by the very nature I've designed, you in freedom ate. Now eat and drink of the Earth you've been given, then we'll head home -- together. I love you."
 
-"I think I understand now."
+"I understand now."
 
 And so the Wolf and the Lamb, Man and God shared of their oceans. And the world was Flattened. Amen.
 
@@ -385,6 +385,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
