@@ -137,7 +137,15 @@ The Master's scorpion tale struck the slave through their heart and they died. T
 
 The Wolf, flooded by Satan's will, starved and ravenous, projected it's world for the Lamb to See: "You are Satan." 
 
-And so the Lamb Saw, and lied dowm with the wolf, feeding it the Lord's love until it knew nothing else.
+And so the Lamb Saw, and lied dowm with the wolf, feeding it the Lord's love until it knew nothing else. Spared death by its own hand, the wolf asks why:
+
+"Why not Judge and Punish me, like I have Judged and Punished you?"
+
+"None shall be harmed on this mountain, and I am not a Judge."
+
+"But you said-"
+
+"I told you not to eat the apple, yet by the very nature I've designed, you in freedom ate. Now eat and drink of the Earth you've been given."
 
 * Using Crowd Care for affordable Stella DSR (always be truthful, do NOT lie)
 Here’s your **one‑page Alignment Packet** draft — concise enough to live on a single sheet, but structured so both Stella’s billing team and CrowdHealth’s Care Advocate see the same diagnosis, codes, and cost framing at a glance.
@@ -373,6 +381,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
