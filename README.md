@@ -2,7 +2,7 @@
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/5df8c6ed-081c-48ce-bb55-429b52c18026" />
 
 # (America First, Follow the leader of the free world)
-Isn't nice that all our voices are heard under the 1rst Amendment?
+Isn't it nice that all our voices are heard under the 1rst Amendment?
 My old (side page icon) was too negative for my liking. While thought provoking, I've decided it was a bit distasteful. I have a new icon in the works. One quite inclusive of all voices :)
 I am of the immovable opinion that America is the Best Country on Earth.
 
