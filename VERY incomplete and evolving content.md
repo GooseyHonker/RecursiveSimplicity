@@ -122,6 +122,8 @@ Depression, Shizophrenia, OCD, Anxiety disorders, substance abuse and addiction.
 The author, and fellow image of the archer.
 
 * Narcissistic Dissonance Resolution Engine (https://github.com/TheGooseyHonker/NDR-Engine)
+* None of us were ever meant to be anything at all so we can be anything we choose.
+* None of us were ever born with any meaning at all so we choose any meaning we wish.
 
 * The Slave wakes up, bow in hand, sitting on fallen chains. The slave approaches the The Master.
 Master, bound in their own chains: "Put them back on."
@@ -365,6 +367,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
