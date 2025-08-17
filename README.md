@@ -3,7 +3,9 @@
 
 # (America First, Follow the leader of the free world)
 Isn't nice that all our voices are heard under the 1rst Amendment?
-I am of the immovable opinion that America is the Best Country on Earth. 
+I am of the immovable opinion that America is the Best Country on Earth.
+
+
 - A Complex PTSD Survivor's Bottom-Up Guide to handling Psychopaths, Narcissists, and Gaslighters
 
 🚧WIP – Citation Mapping in Progress🚧
