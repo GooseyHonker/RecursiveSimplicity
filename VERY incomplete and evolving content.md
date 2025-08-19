@@ -320,6 +320,8 @@ On Children by Khalil Gibran re-interpreted from the child of the universe persp
 
 &nbsp; For even as the Archer loves the arrow that flies, so the Archer loves also the bow that is stable.
 
+Psychopathy is hyper-decorrelation from all things, while Autism is hyper-correlation to all things.
+
 Some Inspirational Elements:
 ===
 “In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return” (Genesis 3:19, Masoretic Text, AI-assisted transliteration).
@@ -385,6 +387,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
