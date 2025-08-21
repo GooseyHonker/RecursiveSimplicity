@@ -28,6 +28,8 @@ WARNING: Metaphorical Weather Advisory This manuscript contains recursion-induce
 * Is the amygdala the source of all bias, all stress, all trauma, all psychopathy and disorder? Safe to say it's a warning system, but hyper-active warning system in PTSD, "psychopathy," etc.? As in, is the amygdala an insular cortex dampener?(CITE).
 * Random Parrallel correlates example: Brains can correlate to different preferences: I like dogs, sometimes cats. Someone else likes cats, sometimes dogs. What do you like? This is caused by individuals percieving more or less usefulness for cats and dogs. But the circuits relate to loving others (animals included) is not to be the sole circuit dominating our conciousness with no room for other inputs. We also need to see where we're walking so we don't smack our head into a pole while thinking about puppies and kittens. <- that's quite useful. This circuit, alonside MANY others in parrallel(CITE) works to maintain our adaptations surounding the goal-cause: exist.
 * The brain is like ONE tree, pruning branches, growing more. We water and feed it our selves. A community is like a forest, we send nutrients where they are needed.
+* <-BPD ---- "Neurotypical" --- Autism-> correlate emergence spectrem
+* BPD <--misunderstands--> "Neurotypical" <--misunderstands--> Autism
 * Born -> No inherent morals -> morals emerge from balanced Neuroplastic activation of all circuits over time(CITE) -> No one is ever good/bad -> ALL is useful. All circuits present: Inhibited and Excited? Sparse correlates and Dense correlates? GOAL: re-correlate all inhbited/sparsely correlated circuits to excited/dense correlates to mitigate internal dissonance? 
 * Corralate Emergence Spectrum: PSYCHOPATHY <---> AUTISM (i.e. sparsely-integrated sparsely-correlated to densely-integrated densely-correlated)(CITE) (I.E. UNDER-DEVELOPMENT <---> OVER-DEVELOPMENT). But to call either disordered development is to deflect it's true nature.
 * I ask that you assert yourself at the unfairness of those who tell you, in their ingorance to "be more aware."
@@ -391,6 +393,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
