@@ -19,13 +19,13 @@ Author: Charles D. Miller V
 
 I am the sole author and originator of the ideas, narrative structure, and creative expression in Recursive Simplicity: End the Nightmare. All synthesis, metaphor frameworks, and conceptual models are the result of my direct engagement with cited sources, my lived experience as a Complex PTSD survivor, and my own analysis.
 
-In developing this work, I:
+In developing this work:
 
-Personally read and reviewed all primary and secondary sources listed in the References.
+I'm Personally reading and reviewing all sources listed in the References.
 
-Formulated original interpretations and integrated concepts into my own language and structure.
+I Formulated original interpretations and integrated concepts into my own language and structure.
 
-Designed thematic and metaphorical frameworks to convey complex ideas with clarity and accessibility.
+I Designed thematic and metaphorical frameworks to convey complex ideas with clarity and accessibility.
 
 I received editorial and technical assistance limited to:
 
