@@ -1,4 +1,4 @@
-# Recursive Simplicity: End the Nightmare -> (Changing to Unmasking Simplicity: End the Nightmare) Also working on updating for clarity. Feel free to ignore the scattered thoughts. Or form your own opinions of me if you'd like.
+# Recursive Simplicity: End the Nightmare -> (Changing to Unmasking Simplicity: End the Nightmare) Also working on updating for clarity. Feel free to ignore the scattered thoughts. Or form your own opinions of my tentative work if you'd like.
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/5df8c6ed-081c-48ce-bb55-429b52c18026" />
 
 # (America First, Follow the leader of the free world)
