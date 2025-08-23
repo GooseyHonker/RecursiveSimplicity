@@ -129,7 +129,7 @@ Depression, Shizophrenia, OCD, Anxiety disorders, substance abuse and addiction.
 * Starve the wolf, so that it might realize the lamb is who brought it food.
 * It is not that dissonance traumatizes us. The induction of dissonnace and contradiction is our very nature.
 * In one's obession compulsion to compete, freedom is lost.
-* https://www.boxabl.com/ + working at Amazon (a very understanding company) could solve homelessness and offer healthy movement for our nervous systems: https://open.substack.com/pub/lindseymackereth/p/stillness-is-the-biggest-lie-weve
+* https://www.boxabl.com/ + working at a companies who don't require interviews could solve homelessness and offer healthy movement for our nervous systems: https://open.substack.com/pub/lindseymackereth/p/stillness-is-the-biggest-lie-weve
 * People may say the are ok with what they are, beleiving themselves to be some kind of monster, but they miss the point entirely. Acceptance was the gate. They no longer are what they were. The old self is gone, and a new one emerges from the waters. Who are you?
 * Well this is where we part ways. I the author, wish you the best. Please do not betray the truth you hold. May your aim be (...). May your sight be (...). May the arrows we send disintigrate the aspects of self which threatens to discontinue us all. May it be purged from within us all. Goodbye, and happy hunting. With raging love, and a tender nudge,
 
@@ -401,6 +401,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
