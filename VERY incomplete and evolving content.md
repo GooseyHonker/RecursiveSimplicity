@@ -9,6 +9,7 @@ READ PRELIMINARY WARNING, ***Expanded Trigger Warning,*** AND DISCLAIMER FIRST.
 We are the dissonance inductors, not the dissonance sowers.
 
 ***\*SEE "MIRRORING" in The Drama of the Gifted Child\****
+A note for the religious: “Recursive Teleoaitology doesn’t replace God as source or judge — it offers a language and method for living into the purposes believers already see as divinely authored. To the extent that God’s character is understood as life‑giving, truth‑telling, and reconciling, Teleoaitology simply systematizes those same imperatives in daily decisions.”
 
 At first, this repository was to help abuse victims gain the understanding they are not defective and the tools to escape or survive the worst sitautions, but I think this has evolved into more than that. This repository is metaphor rich. It's also very vague in a way, I'm working on fixing that for my final release.
 
@@ -401,6 +402,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
