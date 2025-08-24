@@ -1,6 +1,6 @@
 # The PSIM(I) + CCE Engine.pdf is also implied to be VERY incomplete and evolving
 
-READ PRELIMINARY WARNING, ***Expanded Trigger Warning,*** AND DISCLAIMER FIRST.
+READ the README, PRELIMINARY WARNING, ***Expanded Trigger Warning,*** DISCLAIMER, and Historical Versions Notice FIRST.
 ===
 
 ***Recursive Simplicity: End the Nightmare***
@@ -402,6 +402,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
