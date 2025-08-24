@@ -4,7 +4,7 @@ Do NOT misread old versions:
 
 2. Keep the Guardrails Visible Don’t bury the warnings, disclaimers, or “read before proceeding” notices—surface them right at the top so anyone encountering the file knows its limits.
 
-3.“Then vs. Now” Context: Earlier drafts spoke more sharply in places; the current model reflects refined language and clarified intent.
+3. “Then vs. Now” Context: Earlier drafts spoke more sharply in places; the current model reflects refined language and clarified intent.
 
 4. Anticipate the Emotional Read If something might land as confrontational, briefly acknowledge why:
 
