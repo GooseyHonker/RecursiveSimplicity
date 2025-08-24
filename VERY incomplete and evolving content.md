@@ -47,7 +47,7 @@ WARNING: Metaphorical Weather Advisory This manuscript contains recursion-induce
 * Rage poem maybe?
 * Memory, something that a lot of us wouldn't like have, serves as proof of our resilience.
 * When younger, smaller humans, grow in physically, sexually, biologically, and psychologically abusive environments, their brains correlate to expect those hostile inputs again given a widening array of correlated inputs nearby (triggers).
-* What does the world look like? Or. What am I? These are the same question. Quick answer: ALIVE.
+* What does the world look like? Or. What am I? These are the same question. Answer: Continuous.
 * Take super-normal stimuli based addictions like Food/porn/video game addiction for example. You don't have an addiction, you have a security breach of some sort? Finding the breach and plugging it is key?
 * For all animals, humans included, I'm sure if you offer them security, they'll do the same for you?
 * All brains are recursive contradiction-inducting triangulators? Given two dissonant points, the brain automatically begins to resolve the dissonance by any means it can with no regard to something as vague as "morals" all between order and chaos, useful and harmful, beginning and end?
@@ -401,6 +401,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 6. [verify]Deutsch, D. (1985). Quantum theory, the Church–Turing principle and the universal quantum computer. Proceedings of the Royal Society A, 400(1818), 97–117.
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
+
 
 
 
