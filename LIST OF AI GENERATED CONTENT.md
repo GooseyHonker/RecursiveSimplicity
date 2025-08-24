@@ -8,6 +8,8 @@
 8. Cover Art - Front, Side and Back
 9. Authorship & AI Collaboration Disclosure
 10. A note for the religious: “Recursive Teleoaitology doesn’t replace God as source or judge — it offers a language and method for living into the purposes believers already see as divinely authored. To the extent that God’s character is understood as life‑giving, truth‑telling, and reconciling, Teleoaitology simply systematizes those same imperatives in daily decisions.” <- Not trying to invalidate, only bringing understanding and "awareness"
+11. Self-Advocacy
+
 
 
 
