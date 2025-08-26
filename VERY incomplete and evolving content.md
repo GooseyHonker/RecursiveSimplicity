@@ -405,8 +405,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 7. [verify]Randall, L., & Sundrum, R. (1999). Large mass hierarchy from a small extra dimension. Physical Review Letters, 83(17), 3370.
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
 
-
-
+Is our universe one correlate in an infinite parrallel series of correlates in God's infinite dream?
 
 
 
