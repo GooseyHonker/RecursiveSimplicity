@@ -22,8 +22,7 @@ WARNING: Metaphorical Weather Advisory This manuscript contains recursion-induce
 * The very inflamation you have in response to trauma is in itself rapid adaptation, bottlenecked by a lack of available resources: https://open.substack.com/pub/thegentleheretic/p/the-complex-role-of-histamine-in?r=5uxgv4&utm_medium=ios
 * Histamine and Hyperneuroplasticity. can you enabke this as a latent feature in all nervous systems? is the PSIMI contradiction induction and acceptance the way forward for rapid trauma and narcisstic abuse recovery? https://open.substack.com/pub/thegentleheretic/p/monotropism-and-hyperneuroplasticity?r=5uxgv4&utm_medium=ios
 
-* Books by Robert Greene are tactically informative about the universal "laws" of narcississm. He's a great writer, but What does Adler say tactics are for? Well, control. Implicitly, an insecure lifestyle and pursuit of power over people, not love. We all have the power of words. We all have the power of acceptance. We all have the power of love. We need not Wear the blindfold of power to hide our scales, claws, and scorpion tale. Instead, oh great chimera of the abyss, should you leave the world you inhabit, no true problem would ever pose the slightest resemblance to the dead end you rush toward. Even robert greene alludes to exiting this dynamic through (...)
-* However, if you feel "outshined," you may be embodying the Master role? Uncertain too vague, like many other parts of this repository.
+* Adler says tactics are for? Well, control, which can be narcissistic. Implicitly, an insecure lifestyle and pursuit of power over people, not love. We all have the power of words. We all have the power of acceptance. We all have the power of love. We need not Wear the blindfold of power to hide our scales, claws, and scorpion tale. Instead, oh great chimera of the abyss, should you leave the world you inhabit, no true problem would ever pose the slightest resemblance to the dead end you rush toward. Even robert greene alludes to exiting this dynamic through (...)
 
 * 🫴⏸️ - Micro chapter pauses
 * ===========Thinking about winning and competition all the time is narcissism(CITE), plain and simple, even if it is "socially approved(CITE)" to do so. But what if there's something with an appetite larger, deeper, and darker than the typical narcississm (CITE) driving countries, corporations, communities, families, and ourselves to ruin(CITE)? Competitive Parasitism, the PEAK of psychopathy and full erasure of other.
@@ -406,6 +405,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
 
 Is our universe one correlate in an infinite parrallel series of correlates in God's infinite dream?
+
 
 
 
