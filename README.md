@@ -2,7 +2,9 @@
 
 =====================================================
 
-# Recursive Simplicity: End the Nightmare -> (possibly Changing to Unmasking Simplicity: End the Nightmare) Also working on updating for clarity. Feel free to ignore the scattered thoughts. Or form your own opinions of my tentative work if you'd like. READ the README, PRELIMINARY WARNING, ***Expanded Trigger Warning,*** DISCLAIMER, and Historical Versions Notice FIRST.
+# Recursive Simplicity: End the Nightmare. Also working on updating for clarity. Feel free to ignore the scattered thoughts. Or form your own opinions of my tentative work if you'd like. READ the README, PRELIMINARY WARNING, ***Expanded Trigger Warning,*** DISCLAIMER, and Historical Versions Notice FIRST.
+
+# I have all this inside me, but to you they're only words.
 ===
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/5df8c6ed-081c-48ce-bb55-429b52c18026" />
 
