@@ -10,10 +10,9 @@
 
 # (America First, Follow the leader of the free world)
 Isn't it nice that all our voices are heard under the 1rst Amendment?
-My old (side page icon) was too negative for my liking. While thought provoking, I've decided it was a bit distasteful. I have a new icon in the works. One quite inclusive of all voices :)
-I am of the immovable opinion that America is the Best Country on Earth.
+My old (side page icon) was too negative for my liking. While thought provoking, I've decided it was a bit distasteful. I have a new icon in the works. One quite inclusive of all voices.
 
-One of the reasons I made this was becasue I'm so fucking tired of being called a narcissist. No more scapegoats. We need to try to understand eachother. It's fine if we don't, no of us are "bad" for it. Trying to understand is the ONLY thing that matters. Accepting the we don't understand is the key, but trying to understand is the gate.
+One of the reasons I made this was becasue I'm so fucking tired of being called a narcissist by people close to me. No more scapegoats. We need to try to understand eachother. It's fine if we don't, none of us are "bad" for it. Trying to understand is the ONLY thing that matters. Accepting the we don't understand is the key, but trying to understand is empathy.
 
 
 - A Complex PTSD Survivor's Bottom-Up Guide to handling Psychopaths, Narcissists, and Gaslighters
