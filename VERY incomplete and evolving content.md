@@ -7,6 +7,9 @@ READ the README, PRELIMINARY WARNING, ***Expanded Trigger Warning,*** DISCLAIMER
 
 ***Recursive Simplicity: End the Nightmare***
 ===
+
+# Clarification: Part of my purpose in mapping these patterns is to teach myself how to navigate relationships with more accuracy and care. I want to better distinguish between harmful behaviors and the quirks of good people, so that I don’t mislabel or mistrust unnecessarily. You’re welcome to explore these frameworks alongside me — they’re here as tools for understanding, not as verdicts on any one person.
+
 ***We/I&You*** <- not a communism reference, that system doesn't work
 We are the dissonance inductors, not the dissonance sowers.
 
@@ -405,6 +408,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
 
 Is our universe one correlate in an infinite parrallel series of correlates in God's infinite dream?
+
 
 
 
