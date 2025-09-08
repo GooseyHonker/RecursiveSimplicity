@@ -1,4 +1,4 @@
-# Notice: This repository is currently open for public access. Contents are being updated and may change or be removed at any time. If you wish to review or archive it, please do so promptly. Everything in this Repository is Speculative, but grounded in a deep hope that al humans will eventually understand each other!
+# Notice: This repository is currently open for public access. Contents are being updated and may change or be removed at any time. If you wish to review or archive it, please do so promptly. Everything in this Repository is Speculative, but grounded in a deep hope that all humans will eventually understand each other!
 
 =====================================================
 
