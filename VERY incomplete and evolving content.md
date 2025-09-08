@@ -1,4 +1,4 @@
-# The PSIM(I) + CCE Engine.pdf is also implied to be VERY incomplete and evolving
+# The PSIM(I) + CCE Engine.pdf is also implied to be VERY incomplete, evolving, and speculative!
 
 READ the README, PRELIMINARY WARNING, ***Expanded Trigger Warning,*** DISCLAIMER, and Historical Versions Notice FIRST.
 ===
@@ -410,6 +410,7 @@ Rebirth or reorientation: Adaptive neuroplasticity rewriting self-structure (Abr
 8. [verify]Recursive Simplicity Author's Model (2025). Recursive Teleoaitology (PSIM(I)) loop hypothesis.
 
 Is our universe one correlate in an infinite parrallel series of correlates in God's infinite dream?
+
 
 
 
