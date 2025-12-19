@@ -1,9 +1,16 @@
-# PROJECT STATUS: DORMANT (Indefinitely Paused)
+# PROJECT STATUS: DISCONTINUED
 
-This repository contains early-stage exploratory writing and speculative concepts 
-developed as a personal creative hobby. It is not a commercial product, technical 
-specification, or funded project. All work has been suspended indefinitely as of 
-December 2025. No further development is planned.
+**As of December 19, 2025, this project has been permanently discontinued.**
+
+## Speculative Writing Archive (AI-Assisted)
+
+This repository is a static archive of a **personal creative writing project**, not a technical manual or therapeutic guide.
+
+- **Fictional:** This is a speculative novel draft exploring complex PTSD themes through sci-fi metaphors.
+- **AI-Assisted:** Content was generated with AI tools to explore narrative concepts.
+- **Not Advice:** Nothing herein constitutes medical, legal, or technical advice.
+
+No further development, maintenance, or updates will occur.
 
 # Notice: This repository is currently open for public access. Contents are being updated and may change or be removed at any time. If you wish to review or archive it, please do so promptly. Everything in this Repository is Speculative, but grounded in a deep hope that all humans will eventually understand each other!
 
