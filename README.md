@@ -1,3 +1,10 @@
+# PROJECT STATUS: DORMANT (Indefinitely Paused)
+
+This repository contains early-stage exploratory writing and speculative concepts 
+developed as a personal creative hobby. It is not a commercial product, technical 
+specification, or funded project. All work has been suspended indefinitely as of 
+December 2025. No further development is planned.
+
 # Notice: This repository is currently open for public access. Contents are being updated and may change or be removed at any time. If you wish to review or archive it, please do so promptly. Everything in this Repository is Speculative, but grounded in a deep hope that all humans will eventually understand each other!
 
 =====================================================
